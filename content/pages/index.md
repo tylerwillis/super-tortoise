@@ -23,7 +23,7 @@ sections:
       company, I invest $2-4m/yr in promising startups, and I try to encourage
       other people to become more optimistic.
     actions:
-      - label: Read More About ME
+      - label: Learn about Unsupervised
         url: /contact
         style: button
       - label: Invest alongside me
