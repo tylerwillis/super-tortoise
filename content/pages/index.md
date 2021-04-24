@@ -18,7 +18,7 @@ sections:
       improve the world.
 
 
-      I call this practice **Skilled Optimism **and I do a lot of things that
+      I call this practice **Skilled Optimism** and I do a lot of things that
       help me practice and evangelize that concept: Right now, I'm building a
       company, I invest in promising startups, and I try to encourage other
       people to become more optimistic.
