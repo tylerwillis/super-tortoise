@@ -14,7 +14,7 @@ sections:
     content: >
       I'm most well-known as the co-founder of Unsupervised, which helps
       companies discover opportunities in their data (over $55M worth in 2021)
-      and has raised over $50M to date from marquee investors.
+      and has raised over $50M from top investors.
 
 
       I prefer to think of myself more broadly as someone who believes very
