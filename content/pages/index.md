@@ -45,13 +45,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Podcast
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: featured-posts
     type: section_posts
     title: Popular Essays
