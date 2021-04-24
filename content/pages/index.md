@@ -17,11 +17,10 @@ sections:
       and has raised over $50M from top investors.
 
 
-      I think of myself more broadly as someone who believes very strongly in
-      the ability to intentionally develop the skills and tools that make us
-      happier and help us improve the world. I call this practice **Skilled
-      Optimism** and I do a lot of things that help me practice and evangelize
-      that concept.
+      I think of myself as someone who believes very strongly in the ability to
+      intentionally develop the skills and tools that make us happier and help
+      us improve the world. I call this practice **Skilled Optimism** and I do a
+      lot of things that help me practice and evangelize that concept.
 
 
       Currently, I'm building Unsupervised, I invest $2-4m/yr in promising
