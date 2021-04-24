@@ -42,13 +42,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Twitter
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
       - label: Podcast
         url: '#'
         style: link
