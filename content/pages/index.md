@@ -26,7 +26,7 @@ sections:
       - label: Read More About ME
         url: /contact
         style: button
-      - label: Invest
+      - label: Invest alongside me
         url: '#'
         style: link
         icon_class: dev
