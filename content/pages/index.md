@@ -12,10 +12,12 @@ sections:
     type: section_content
     title: 'About Me:'
     content: >
-      Most commonly, I'm introduced as the founder of a successful tech company.
-      I prefer to think of myself as someone who believes very strongly in the
-      ability to develop skills and tools that make us happier and help us
-      improve the world.
+      I'm most well-known as a founder of Unsupervised, which helps companies
+      discover opportunities in their data (over $50M worth in 2021) and has
+      raised over $50M for some marquee venture investors. I prefer to think of
+      myself more broadly as someone who believes very strongly in the ability
+      to intentionally develop the skills and tools that make us happier and
+      help us improve the world.
 
 
       I call this practice **Skilled Optimism** and I do a lot of things that
