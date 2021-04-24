@@ -29,7 +29,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "icon"
+                "style": "button"
             }
         ],
         "has_social": true,
