@@ -22,9 +22,11 @@ sections:
       strongly in the ability to intentionally develop the skills and tools that
       make us happier and help us improve the world. I call this practice
       **Skilled Optimism** and I do a lot of things that help me practice and
-      evangelize that concept. Currently, I'm building Unsupervised, I invest
-      $2-4m/yr in promising startups, and I try to encourage other people to
-      become more optimistic.
+      evangelize that concept. 
+
+
+      Currently, I'm building Unsupervised, I invest $2-4m/yr in promising
+      startups, and I try to encourage other people to become more optimistic.
     actions:
       - label: Learn about Unsupervised
         url: /contact
