@@ -15,7 +15,7 @@ sections:
       I'm most well-known as a founder of Unsupervised, which helps companies
       discover opportunities in their data (over $50M worth in 2021) and has
       raised over $50M to date from Cathay Innovation, SignalFire, Coatue, Eniac
-      Ventures, Elad Gil, and other marquee venture investors.
+      Ventures, Elad Gil, and other marquee investors.
 
 
       I prefer to think of myself more broadly as someone who believes very
