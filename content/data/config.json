@@ -17,13 +17,13 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "About",
+                "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
