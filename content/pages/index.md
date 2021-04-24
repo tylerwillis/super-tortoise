@@ -12,17 +12,16 @@ sections:
     type: section_content
     title: 'About Me:'
     content: >
-      I'm most well-known as a founder of Unsupervised, which helps companies
-      discover opportunities in their data (over $50M worth in 2021) and has
-      raised over $50M to date from Cathay Innovation, SignalFire, Coatue, Eniac
-      Ventures, Elad Gil, and other marquee investors.
+      I'm most well-known as the co-founder of Unsupervised, which helps
+      companies discover opportunities in their data (over $55M worth in 2021)
+      and has raised over $50M to date from marquee investors.
 
 
       I prefer to think of myself more broadly as someone who believes very
       strongly in the ability to intentionally develop the skills and tools that
       make us happier and help us improve the world. I call this practice
       **Skilled Optimism** and I do a lot of things that help me practice and
-      evangelize that concept. 
+      evangelize that concept.
 
 
       Currently, I'm building Unsupervised, I invest $2-4m/yr in promising
