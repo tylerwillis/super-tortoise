@@ -15,10 +15,13 @@ sections:
       Most commonly, I'm introduced as the founder of a successful tech company.
       I prefer to think of myself as someone who believes very strongly in the
       ability to develop skills and tools that make us happier and help us
-      improve the world. I call this practice **Skilled Optimism**, and I do a
-      lot of things that help me practice and evangelize that concept: Right
-      now, I'm building a company, I invest in promising startups, and I try to
-      encourage other people to become more optimistic.
+      improve the world. 
+
+
+      I call this practice **Skilled Optimism**, and I do a lot of things that
+      help me practice and evangelize that concept: Right now, I'm building a
+      company, I invest in promising startups, and I try to encourage other
+      people to become more optimistic.
     actions:
       - label: Contact Me
         url: /contact
