@@ -20,8 +20,8 @@ sections:
 
       I call this practice **Skilled Optimism** and I do a lot of things that
       help me practice and evangelize that concept. Currently, I'm building a
-      company, I invest in promising startups, and I try to encourage other
-      people to become more optimistic.
+      company, I invest $2-4m/yr in promising startups, and I try to encourage
+      other people to become more optimistic.
     actions:
       - label: Read More About ME
         url: /contact
