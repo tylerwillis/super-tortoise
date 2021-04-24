@@ -63,7 +63,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: recent-posts
+  - section_id: featured-posts
     type: section_posts
     title: Popular Essays
     posts_number: 4
