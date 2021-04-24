@@ -10,7 +10,7 @@ sections:
       data and find opportunities.
   - section_id: about
     type: section_content
-    title: About
+    title: 'About Me:'
     content: >
       Most commonly, I'm introduced as the founder of a successful tech company,
       but I think of myself more as a polymath that believes very strongly in
