@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tyler Willis.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm the Co-Founder of Unsupervised, which helps people analyze complex
+      data and find opportunities.
   - section_id: about
     type: section_content
     title: About
