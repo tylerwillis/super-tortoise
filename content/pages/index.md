@@ -23,7 +23,7 @@ sections:
       company, I invest in promising startups, and I try to encourage other
       people to become more optimistic.
     actions:
-      - label: Contact Me
+      - label: Read more About
         url: /contact
         style: button
       - label: lorem-ipsum
