@@ -14,10 +14,10 @@ sections:
     content: >
       I'm most well-known as a founder of Unsupervised, which helps companies
       discover opportunities in their data (over $50M worth in 2021) and has
-      raised over $50M for some marquee venture investors. I prefer to think of
-      myself more broadly as someone who believes very strongly in the ability
-      to intentionally develop the skills and tools that make us happier and
-      help us improve the world.
+      raised over $50M to date from some marquee venture investors. I prefer to
+      think of myself more broadly as someone who believes very strongly in the
+      ability to intentionally develop the skills and tools that make us happier
+      and help us improve the world.
 
 
       I call this practice **Skilled Optimism** and I do a lot of things that
