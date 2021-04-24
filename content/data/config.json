@@ -9,7 +9,7 @@
         "profile_img": "images/Tyler Headshot.png",
         "profile_img_alt": "Photo of Tyler Willis",
         "background": "light",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
