@@ -45,7 +45,7 @@ sections:
         type: action
   - section_id: featured-posts
     type: section_posts
-    title: Popular Writing
+    title: Recent Posts
     posts_number: 4
     actions:
       - label: View Blog
