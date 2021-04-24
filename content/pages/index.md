@@ -11,11 +11,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Most commonly, I'm introduced as the founder of a successful tech company,
+      but I think of myself more as a polymath that believes very strongly in
+      the ability to develop skills and tools that make us happier and help us
+      improve the world. I believe in Skilled Optimism, and I do a lot of things
+      that help me practice and evangelize that concept: I build better tools
+      for the world, I invest in promising startups, and I evangelize increased
+      optimism to whoever will listen.
     actions:
       - label: Contact Me
         url: /contact
