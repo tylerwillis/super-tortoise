@@ -1,8 +1,6 @@
 ---
 title: About Me
-subtitle: >-
-  I’m an entrepreneur and investor in the technology industry. My work is
-  focused on helping companies grow
+subtitle: I’m an entrepreneur and investor in the technology industry.
 img_path: images/Tyler Product Shot.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
