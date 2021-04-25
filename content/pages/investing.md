@@ -33,7 +33,7 @@ sections:
         type: action
       - label: Back the Syndicate
         url: 'https://angel.co/s/tylerwillis/9pe5Q'
-        style: button
+        style: link
         icon_class: dev
         new_window: false
         no_follow: false
