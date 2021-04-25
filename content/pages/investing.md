@@ -44,7 +44,7 @@ sections:
   - title: Other Investing
     section_id: lorem-ipsum
     content: >
-      I also make occasional personal investments in other private and public
+      I also occasionally make personal investments in other private and public
       equities.
     actions: []
     type: section_hero
