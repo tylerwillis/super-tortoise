@@ -37,4 +37,6 @@ layout: page
 
 In addition to his work at Unsupervised, Tyler is an active investor — investing $2-4M/yr in early-stage technology companies. He's been an early-stage investor in companies like Patreon (now worth $4B), Clubhouse ($4B), Lattice ($1B), Lambda School, MainStreet, and On Deck.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
+> The world always seems brighter when you’ve just made something that wasn’t there before. 
+>
+> \<cite>Neil Gaiman\</cite>
