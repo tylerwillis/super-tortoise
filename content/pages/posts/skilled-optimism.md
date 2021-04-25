@@ -78,7 +78,7 @@ The power of this is in two things: First, it assumes failure is part of doing t
 
 That combination is powerful. It gives you strong intrinsic motivation because everything is within your control (the only thing out of your control is the time it will take you, which will be different for all people), and it allows you to be happy with your current state, even if you haven't accomplished your goal yet — after all, building skills and tools was part of the plan all along.
 
-Take this as an example: imagine you needed to chop down a tree in the middle of the desert but didn't have any tools, do you think you could figure it out in a few hours? Even if you tried all sorts of things prior to deciding to build an axe, wouldn't you still feel pretty resourceful and smart when you figured out you needed to build an axe? If it took you a week to figure out how to make an axe from stones and branches around you, wouldn't you still feel pretty accomplished when you figured out how to seat the blade? You'd be reinventing some core parts of human knowledge from scratch — you should expect some setbacks and take pride in having the gumption to stick with it.
+Take this as an example: imagine you needed to chop down a tree alone in the middle of the desert without any tools. You know that it's possible, but it's highly unlikely that you could figure it out in a couple of hours. Even if you tried all sorts of bad ideas prior to deciding to build an axe, wouldn't you still feel pretty resourceful and smart when you figured out you needed to build an axe? Even if it took you a week to figure out how to make an axe from stones and branches around you, wouldn't you still feel pretty accomplished when you figured out how to seat the blade? You'd be reinventing some core parts of human knowledge from scratch — you'd expect some setbacks and take pride in having the gumption to stick with it. When something failed, you'd think about what skill or tool you were missing and how to build it.
 
 #### Do you need to chase a big idea?
 
@@ -90,7 +90,7 @@ Skill-and-tool optimism can work whether you have a clear vision or not, but I w
 
 ### How S\&T Optimism works
 
-Skill-and-tool optimism is a fantastic personal philosophy. You build beliefs that inspire both the actions and emotional state that you want. Then, the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible. That loop
+Skill-and-tool optimism is a fantastic personal philosophy. You intentionally build beliefs that inspire both the actions and emotional state that you want. Then, the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible. That loop
 
 Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
 
