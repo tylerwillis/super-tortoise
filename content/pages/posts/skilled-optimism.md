@@ -72,11 +72,13 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 ## What is skill-and-tool optimism?
 
-Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step becomes more like a unit test, it's information that helps you build better skills or tools.
+Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step becomes more like a QA test, failure is information you can use to build better skills or tools. Once you build them, you can try to pass the test again.
 
-It allows you to desire to accomplish things that are outside of your current ability, but focus on personal growth and activity within your control. By focusing within your locus of control, you can see hard work and failure as a required step on the journey - something giving you information you can act on. It encourages intrinsic motivation, without losing connection to ambitious goals.
+The power of this is in two things: First, it assumes failure is part of doing the work. Failure becomes a reflection of your current ability, not a reflection of you as a person. Second, it keeps everything within your locus of control. If you fail, you just have to figure out what skills and tools you need to build next.
 
-That combination is powerful. A lot of
+That combination is powerful. It gives you strong intrinsic motivation because everything is within your control (the only thing out of your control is the time it will take you, which will be different for all people), and it allows you to be happy even if you haven't accomplished your goal yet.
+
+#### Do you need a big idea?
 
 In their book Zero-to-One, Peter Thiel and Blake Masters [argue](https://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes) that the world needs "Definite Optimism," where people set ambitious specific goals for how to improve the world (and then work to make them true), as opposed to "Indefinite Optimism," where people iterate in interesting spaces to discover improvements.
 
