@@ -1,5 +1,5 @@
 ---
-title: 'Raising Venture Capital is '
+title: Raising Venture Capital is a challenger sell.
 subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
