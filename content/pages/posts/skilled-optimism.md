@@ -110,15 +110,13 @@ You may have some of these already. You may struggle with some more acutely. You
 
 ## How to build the beliefs
 
-You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I learned specific things from people along the journey, but I wasn't lucky enough to find a good teacher or coach that helped me here. You don't need to get lucky on that front.
+You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I learned specific skills from people along the journey, but I wasn't lucky enough to find a good teacher or coach that could show me the right milestones. 
 
-I was lucky in another area: I was born with a very obsessive personality.
+I was lucky in another area: I was born with a very obsessive personality. That 
 
 Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop.
 
 ## ---
-
-You have to have a vision for what change you'd like to make. But, if you believe that self-improvement is required to accomplish that vision, and focus on the process of self-improvement instead of the outcome, then you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it). You can be content in the present moment while working for something you care about in the future.
 
 Even with that advantage, it took me 15-30 years to develop . i hope this is a short circuit for others.
 
