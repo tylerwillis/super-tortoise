@@ -56,8 +56,8 @@ sections:
 
 
       Warning: This podcast gets wonky about skills and tools, I try to show how
-      people can get better and accomplish impressive things despite being in
-      over their heads at the start.
+      people accomplish impressive things despite being in over their heads by
+      learning new skills.
 
 
       *Every recording is shared first with a small, trusted audience. In a
