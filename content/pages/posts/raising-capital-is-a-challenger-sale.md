@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Raising Venture Capital is '
 subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
