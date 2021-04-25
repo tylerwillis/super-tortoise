@@ -46,7 +46,7 @@ layout: post
 
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as being naive in a way that makes them cute, but also a little stupid or dangerous. If you're optimistic about something, people will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit.
 
-That's terrible advice. You should be an optimist. You should believe things can be better. You should dream big dreams. You should work to make them happen. You can be happy and effective while you do it. And you can help other people be happier too.
+That's terrible advice. You should be an optimist. You should believe things can be better. You should work to make them better. You can be happy and effective while you do it. And you can help other people be happier too.
 
 ## Why should you be an optimist?
 
@@ -66,7 +66,7 @@ But, I don't believe that anymore. I hope you don't hear this with the same susp
 
 If you take nothing else from this essay, here’s what I hope you’ll hear:
 
-1.  **You can be happy doing great things, even if you’re struggling with being happy or doing great things today.**
+1.  **You can learn to be happy doing great things, even if you’re struggling with being happy or doing great things today.**
 
 2.  **You should try to do great things: desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want.**
 
@@ -134,11 +134,11 @@ First things first, I want to review those 5 beliefs that I think make up the co
 
 Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that. How did your parents encourage or discourage these beliefs when you were young? (Yes, I know this seems like a therapy trope, but there's a reason therapists ask about this. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time).
 
-Preferably, take a break at this point. Just reflect on those thoughts for a little while. 
+Preferably, take a break at this point. Just reflect on those thoughts for a little while.
 
 When you come back to this, try to put aside those reactions and think about a future you that believes these things. How do you think you'd be different? Would being that person be better? Does this elicit any fear? Would you risk losing any part of yourself that you really love?
 
-I'm a little worried at this point that this sounds like cult re-programming. Before I go any further, let me note that you don't become a new person by  encouraging these beliefs 
+I'm a little worried at this point that this sounds like cult re-programming. Before I go any further, let me note that you don't become a new person by  encouraging these beliefs
 
 ## ---
 
