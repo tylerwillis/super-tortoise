@@ -4,7 +4,12 @@ subtitle: Originally posted on Venture Hacks in 2014
 date: '2014-09-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Success as an angel investor boils down to whether you can pick the right
+  companies. The information in this presentation won’t make you a successful
+  angel investor on it’s own, but it can help you avoid the common pitfalls and
+  develop a better understanding of how this market works and whether you’re
+  ready for it.
 seo:
   title: ''
   description: ''
