@@ -104,7 +104,13 @@ Developing a belief in skill-and-tool optimism is a simple practice. If you're r
 
 5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
 
-None of us are born believing all of those things. Some of us develop those beliefs through our life experiences; most of us do not. By trying to change our experience, we can develop those beliefs. Once we develop them, they are
+Some of us are lucky enough to have experiences that lead us to develop those beliefs; most of us do not. But, if the experiences we have day-to-day are how we develop these beliefs, then we can engineer experiences that start teaching us these. This is hard and can take some time, but it's not impossible. (There's optimism showing through). If you hold these beliefs strongly, it makes you happier, more ambitious, more excited, and leads to you being 
+
+You may have some of these already. You may struggle with some of them more acutely. Everyone has a different starting point. but
+
+
+
+By trying to change our experience, we can develop those beliefs. Once we develop them, they are
 
 If you look at that list and thi
 
