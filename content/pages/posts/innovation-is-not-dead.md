@@ -1,7 +1,7 @@
 ---
 title: Innovation isn't dead
 subtitle: Innovation is alive and well.
-date: '2014-12-12'
+date: '2014-12-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
