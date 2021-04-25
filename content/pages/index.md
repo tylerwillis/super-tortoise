@@ -44,11 +44,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >+
       ## Going deep on skills and tools.
 
 
@@ -63,8 +62,15 @@ sections:
 
       *Every recording is shared first with a small, trusted audience. In a
       process that loosely resembles peer review, people react to episodes and
-      when both they and the guest agree, we publish the episode publicly.* 
-      
+      when both they and the guest agree, we publish the episode publicly.*
+
+
+      **
+
+
+
+
+
     actions: []
     type: section_content
   - section_id: featured-posts
