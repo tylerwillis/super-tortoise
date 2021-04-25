@@ -60,7 +60,7 @@ People that believe they can change things often start out dissatisfied by somet
 
 I know how true that can be because I am one of those unhappy doers. Over the past 5-6 years, I've found some tools that help me be satisfied without losing my ambition to improve things, but I was a pretty helpless case for a long time. I even avoided going to therapy for several years because I was afraid that being happy would make me less ambitious, which felt like a very core part of my identity. When successful people gave advice about being less frustrated at work, adopting a more balanced working style, "trusting it would all work out," or anything similar, I dismissed it with a deep suspicion that their ambition may have made them unhappy at the moment, but it also made them successful. Advising that other people gamble on losing their drive seemed convenient and ill-advised.
 
-If all of that was true — if you have to be unhappy to make things better — then I respect that many people would rationally choose not to do it. That would be the healthy choice. 
+If all of that was true — if you have to be unhappy to make things better — then I respect that many people would rationally choose not to do it. That would be the healthy choice.
 
 But, I don't believe that anymore. I hope you don't hear this with the same suspicion I had, this is not generic advice to "relax" or "trust the process," these are things you can do to be happier and more ambitious at the same time.
 
@@ -120,7 +120,15 @@ Even with that advantage, it took me about 20 years from the first time I experi
 
 #### Where to start
 
+First things first, I want to review those 5 beliefs that I think make up the core of S\&T Optimisim: 
+
+
+
 ## ---
+
+I hope that by writing this I can help you achieve some of the same understanding more quickly.
+
+This is like meditation for anxious people.
 
 "Comparison is the thief of joy" - every person you admire failed thousands of times.  Being focused on your own work & the knowledge that failure is part of self-improvement and doesn't invalidate you.
 
