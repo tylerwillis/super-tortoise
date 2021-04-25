@@ -114,11 +114,11 @@ You can build this muscle from almost any starting point, it just requires break
 
 I was "lucky" in another area: I was born with a very obsessive personality. While my obsessive nature probably caused a lot of the challenges that led me here, when I become obsessed with my interior life I got motivation and re-enforcement from learning about myself instead of achieving something that would be visible to others. That helped me do a lot of work without the fear of looking stupid (while I felt like a failure often in the early days, there was no external pass or fail on how I reflected on my thoughts).
 
+Even with that advantage, it took me about 20 years from the first time I experienced deep unhappiness to when I really started trying to solve this problem. In the 5 or 6 years since then, I've become more skilled, but I'm nowhere near done with the work. I doubt I'll ever feel done - I haven't hit diminishing returns on doing this work yet and I suspect there's relatively infinite compounding available in the lessons I can learn on this in the decades to come. 
 
+#### Where to start
 
 ## ---
-
-Even with that advantage, it took me 15-30 years to develop . i hope this is a short circuit for others.
 
 "Comparison is the thief of joy" - every person you admire failed thousands of times.  Being focused on your own work & the knowledge that failure is part of self-improvement and doesn't invalidate you.
 
