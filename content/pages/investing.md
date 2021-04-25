@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Back SPVs
+      - label: Back the Syndicate
         url: '#'
         style: link
         icon_class: dev
