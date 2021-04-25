@@ -50,7 +50,9 @@ Calling someone an optimist is often a back-handed compliment. Optimists are see
 
 Resigning ourselves to cynicism is choosing to lead poorer lives. Big dreams help us thrive because people are happy when they think their world is getting better. All improvements require someone to come up with a new idea and work intentionally to achieve it. Thank god some do.
 
-Sadly, the people chasing the biggest dreams often find themselves frustrated and unhappy. They often start out dissatisfied (their motivation for change) and then encounter roadblocks that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy. Desire does not **need** to be a contract with yourself to be unhappy until you get what you want, you can be happy in the belief that improvement is possible, well before you make any actual improvement.
+Sadly, the people chasing the biggest dreams often find themselves frustrated and unhappy. They often start out dissatisfied (their motivation for change) and then encounter roadblocks that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy. 
+
+That isn't the only way to do great things. Desire doesn't need to be a contract with yourself to be unhappy until you get what you want, you can be happy in the belief that improvement is possible, well before you make any actual improvement.
 
 This essay encapsulates what I think is the best way to do this: adopting a practical philosophy that allows you to acknowledge those frustrations and move past them. This is the best way I've found to be personally happy while caring about accomplishing something hard. I hope it serves some of you as well as it has served me.
 
