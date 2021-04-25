@@ -7,7 +7,7 @@ excerpt: >-
   aside.
 date: '2021-05-01'
 thumb_img_path: images/Blue and White Scrapbook Mindfulness Keynote Presentation.gif
-thumb_img_alt: Hikers on the trail
+thumb_img_alt: Ways to be more optimistic
 content_img_path: images/Blue and White Scrapbook Mindfulness Keynote Presentation.gif
 content_img_alt: Hikers on the trail
 seo:
