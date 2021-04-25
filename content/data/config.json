@@ -37,7 +37,8 @@
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "label": "email@email.com"
             }
         ],
         "has_social": true,
