@@ -52,9 +52,25 @@ Unfortunately, people that do this often find themselves frustrated and unhappy.
 
 This essay encapsulates what I think is the best way to do this: adopting a practical philosophy that allows you to acknowledge those frustrations and move past them. This is the best way I've found to be personally happy while caring about accomplishing something hard.
 
-## Skilled Optimism
+## Skilled optimism
 
-Skilled optimism is the belief that people can acquire and use skills to make the world a better place.
+Skilled optimism is the belief that people can acquire and use skills to make the world a better place. This is a self re-enforcing belief: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it; when you see small breakthroughs because of your hard work, it affirms your faith that it is possible to achieve the worthwhile change and motivates you to continue trying to do so.
+
+Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
+
+The world can get better if you get better, you can get better, and there's no requirement to "win" the race
+
+## How to build the mindset if you don't have it
+
+You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I wasn't lucky enough to have this experience.
+
+
+
+Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop. 
+
+
+
+
 
 Desire is a contract that you make with yourself to be unhappy until you get what you want
 
