@@ -19,13 +19,10 @@ sections:
 
       Since then, I've been one of the earliest investors in companies that are
       now incredibly successful, including Patreon (now worth $4B), Clubhouse
-      ($4B), Lattice ($1B), MainStreet, On Deck, and several others. 
+      ($4B), Lattice ($1B), MainStreet, On Deck, and several others.
 
 
       [Accredited investors can back the fund here](angel.co/v/l/STiEs).
-
-
-      *
     actions:
       - label: Back the Fund
         url: 'https://angel.co/v/l/STiEs'
