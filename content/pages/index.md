@@ -60,11 +60,11 @@ sections:
       over their heads at the start.
 
 
-      Every recording is shared first with a small, trusted audience. That
+      *Every recording is shared first with a small, trusted audience. That
       allows guests to be vulnerable and go off their speaking points. In a
       process that loosely resembles peer review, community members react to
       episodes and when both they and the guest agree the podcast is worthy, we
-      publish the episode publicly.
+      publish the episode publicly.*
     actions: []
     type: section_content
   - section_id: featured-posts
