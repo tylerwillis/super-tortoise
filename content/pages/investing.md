@@ -1,6 +1,8 @@
 ---
 title: Tyler is... Investing
-subtitle: lorem-ipsum
+subtitle: >-
+  Kepler Operator's Fund invests $2-4M/yr in startups and is open to accredited
+  investors.
 img_alt: lorem-ipsum
 seo:
   title: ''
