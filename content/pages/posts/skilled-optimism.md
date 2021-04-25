@@ -72,11 +72,11 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 ## What is skill-and-tool optimism?
 
-Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step now becomes more like a unit test, it's information that helps you build better skills or tools.
+Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step becomes more like a unit test, it's information that helps you build better skills or tools.
 
 It allows you to desire to accomplish things that are outside of your current ability, but focus on personal growth and activity within your control. By focusing within your locus of control, you can see hard work and failure as a required step on the journey - something giving you information you can act on. It encourages intrinsic motivation, without losing connection to ambitious goals.
 
-That combination is powerful. A lot of 
+That combination is powerful. A lot of
 
 In their book Zero-to-One, Peter Thiel and Blake Masters [argue](https://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes) that the world needs "Definite Optimism," where people set ambitious specific goals for how to improve the world (and then work to make them true), as opposed to "Indefinite Optimism," where people iterate in interesting spaces to discover improvements.
 
