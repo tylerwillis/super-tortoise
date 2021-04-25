@@ -74,6 +74,8 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. It allows for activity on the personal level, which encourages intrinsic motivation, without losing connection to larger goals.
 
+In his book Zero-to-one, Peter Thiel argues for a related idea: that the world needs "Definite Optimism," where  instead of "Indefinite Optimism"
+
 Skill-and-tool optimism is a fantastic personal philosophy. You build beliefs that inspire both the actions and emotional state that you want, and the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
 
 Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
