@@ -1,7 +1,7 @@
 ---
 title: The Sunlight Fallacy
 subtitle: 'The world''s getting better, why does it feel worse?'
-date: '2020-01-25'
+date: '2020-01-16'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
