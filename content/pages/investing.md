@@ -25,7 +25,6 @@ sections:
       [Accredited investors can back the early-stage fund
       here](angel.co/v/l/STiEs).
 
-
       We also occasionally lead [syndicates (one-time investments) in
       growth-stage companies](https://angel.co/s/tylerwillis/9pe5Q).
     actions:
