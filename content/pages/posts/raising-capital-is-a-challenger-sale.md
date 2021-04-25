@@ -1,6 +1,6 @@
 ---
 title: Raising Venture Capital is a challenger sell.
-subtitle: lorem-ipsum
+subtitle: Good sales process works well in fundraising too.
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
