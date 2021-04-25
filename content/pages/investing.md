@@ -43,17 +43,9 @@ sections:
     type: section_content
   - title: Other Investing
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      I also make occasional personal investments in other private and public
+      equities.
     actions: []
     type: section_hero
 seo:
