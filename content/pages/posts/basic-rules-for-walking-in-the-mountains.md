@@ -44,19 +44,39 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Calling someone an optimist is often a back-handed compliment. In uncertain times (all times are uncertain), optimists are seen as having a certain naive nature that makes them cute, but also a little dangerous. People worry that an optimist is ignoring warnings on the way to catastrophic failure. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit it.
+Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a certain naive nature that makes them cute, but also a little dangerous. People worry that an optimist is ignoring warnings on the way to catastrophic failure. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit it.
 
-That is terrible advice. To thrive, both individually and as a society, big dreams are important. People are happy when they think their world is getting better, and the world doesn't get meaningfully better unless some people dream impossible dreams and then work intentionally to achieve them. We should all dream big dreams and work on achieving them; doing so will improve the world around us, for ourselves and for others.
+That is terrible advice. If we resign ourselves to cynicism, we choose to lead poorer lives. Big dreams are important and help us thrive, both individually and as a society. People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. We should all do that; doing so will improve the world around us, for ourselves and for others.
 
-Unfortunately, people that do this often find themselves frustrated and unhappy. They worry that their vision for the future is wrong or they become deeply frustrated by the many blockers in their way. That frustrated state is easy to fall into and can last for a lifetime, but it's completely unnecessary. If you develop the right attitude and work ethic, you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it).
+Unfortunately, people that do this, especially with big dreams, often find themselves frustrated and unhappy. They worry that their vision for the future is wrong or they become deeply frustrated by the many blockers in their way. That frustrated state is very easy to fall into and can last for a lifetime, but it's completely unnecessary. 
+
+You have to have a vision for what change you'd like to make. But, if you believe that self-improvement is required to accomplish that vision, and focus on the process of self-improvement instead of the outcome, then you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it). You can be content in the present moment while working for something you care about in the future.
+
+The old adage that "there are only two ways to be happy: improve your reality or lower your expectations" is wrong. You can be happy in the belief that improving your reality is possible, well before you make any actual improvement.
 
 This essay encapsulates what I think is the best way to do this: adopting a practical philosophy that allows you to acknowledge those frustrations and move past them. This is the best way I've found to be personally happy while caring about accomplishing something hard.
 
 ## Skilled optimism
 
-Skilled optimism is the belief that people can acquire and use skills to make the world a better place. This is a self re-enforcing belief: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it; when you see small breakthroughs because of your hard work, it affirms your faith that it is possible to achieve the worthwhile change and motivates you to continue trying to do so.
+Skilled optimism is the belief that people can acquire and use skills to make the world a better place. 
 
-Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
+This works because it's self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
+
+Developing a belief in skilled optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
+
+1.  **Optimism: **a belief that huge positive changes are just hard, not impossible.
+
+2.  **Self-improvement: **a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
+
+3.  **Internal focus: **a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
+
+4.  **Pro-social: **a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
+
+5.  **Desire: **a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
+
+None of us are born believing all of those things. Some of us develop those beliefs through our life experiences; most of us do not. By trying to change our experience, we can develop those beliefs. Once we develop them, they are 
+
+ If you look at that list and thi
 
 The world can get better if you get better, you can get better, and there's no requirement to "win" the race
 
@@ -64,21 +84,27 @@ The world can get better if you get better, you can get better, and there's no r
 
 You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I wasn't lucky enough to have this experience.
 
-
-
-Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop. 
-
+Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop.
 
 
 
+## ---
+
+Even with that advantage, it took me 15-30 years to develop . i hope this is a short circuit for others.
 
 Desire is a contract that you make with yourself to be unhappy until you get what you want
+
+ "Comparison is the thief of joy" - every person you admire failed thousands of times.  Being focused on your own work & the knowledge that failure is part of self-improvement and doesn't invalidate you.
+
+Get more or desire less.
 
 Optimism and naivety do not need to go hand-in-hand. If you believe that society can intentionally get better, you naturally should believe that you and other people can get better too. You can focus on an immediate practice: improve your skills and tools, use those to improve the world around you, and give those skills and tools freely to others.
 
 Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, Skilled Optimism is a practical way to be happier, more effective, and more pro-social.
 
-## Skilled Optimism
+Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
+
+\---
 
 Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
 
