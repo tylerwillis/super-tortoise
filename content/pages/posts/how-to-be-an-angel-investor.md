@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to be an Angel Investor
 subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
