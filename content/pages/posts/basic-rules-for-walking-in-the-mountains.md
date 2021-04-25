@@ -1,6 +1,8 @@
 ---
 title: Skilled Optimism
-excerpt: 'You can, and should, do great things. '
+excerpt: >-
+  You can, and should, do great things. You can be happy while trying to do
+  them.
 date: '2021-05-01'
 thumb_img_path: images/Blue and White Scrapbook Mindfulness Keynote Presentation.gif
 thumb_img_alt: Ways to be more optimistic
