@@ -4,7 +4,12 @@ subtitle: 'Initially published in Mediapost on Feb. 23, 2012'
 date: '2012-02-23'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Defined as “the exponential growth patterns of information technologies,” the
+  Law of Accelerating Returns can be summed up simply: media that compete for
+  our attention grow the same way compound interest grows – every year gets
+  faster. From print media to the Internet, we’ve seen this accelerating growth
+  rate for centuries.
 seo:
   title: ''
   description: ''
