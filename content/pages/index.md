@@ -25,9 +25,6 @@ sections:
 
       Currently, that includes building Unsupervised, investing $2-4m/yr in
       promising startups, and talking about skill and tool optimism.
-
-
-      ..
     actions:
       - label: Learn about Unsupervised
         url: /contact
