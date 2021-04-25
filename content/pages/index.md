@@ -45,8 +45,6 @@ sections:
         no_follow: false
         type: action
     
-
-<!--End mc_embed_signup-->
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
