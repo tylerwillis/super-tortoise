@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Here's a bio written in the third person (which is awkward, but seems to come in handy occasionally):
+### Here's a bio written in the third person (which is awkward, but seems to come in handy occasionally):
 
 **Tyler Willis** is the co-founder of Unsupervised, which helps companies discover opportunities in their data (over $55M so far) and has raised over $50M from top investors including Cathay Innovation, SignalFire, Coatue, Eniac Ventures, and Elad Gil.
 
@@ -41,12 +41,17 @@ In addition to his work at Unsupervised, Tyler is an active angel investor — m
 
 Prior to founding Unsupervised, Tyler served as the CMO of Hired.com, a career marketplace that has raised over $100 Million to help talented people find jobs they love, and previously ran sales, growth marketing, partnerships, and M\&A across several top-performing startups. Insatiably curious, he's always looking for the next thing to learn.
 
-Here's how other folks have described me:
+### Here's how other folks have described me:
 
 > "Tyler is best described as my VP of common sense."
 
 > "Tyler is an expert at social media, online marketing and product growth. He's also very connected in Silicon Valley. He's fun to work with and a great guy."
-> Rick Marini, Founder and CEO of BranchOut
+
+> Tyler was one of our first investors. He invested before we even had a product and offered us an incredible amount of help and support over several years and up to our Series A round with Founder's Fund. Even as we've added a lot of world-class investors and advisors, I still keep Tyler on speed-dial.
+
+> Tyler is the kind of guy you want in your organization. His influence exceeds his team's reach -- he provides a perspective that is invaluable on a plethora of initiatives, whether it be marketing tactics, company strategy, product direction, or user experience. I would work with him again in an instant.
+
+\-
 
 \-
 
