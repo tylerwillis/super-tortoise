@@ -14,9 +14,55 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Graduation season is coming up, and with it, some great advice will be handed down via the time-honored tradition of commencement addresses. If I tapped to share my best advice, I’d want to pick something pithy enough to stick, but important enough to share *— *my personal version of [Wear Sunscreen](https://www.youtube.com/watch?v=sTJ7AzBIJoI).Here’s the best advice I could give on becoming more resilient, happier, and more successful: **Read Stoicism**.*A quick note before we get started — I don’t have quite the talent for brevity that *[*Mary Schmich*](https://www.youtube.com/watch?v=sTJ7AzBIJoI)* had when she penned “wear sunscreen.” So this essay may be on the long side. I apologize in advance. If you’d prefer to have it emailed to you so you can read it later, *[*click here*](http://eepurl.com/VfE3z)*.*In the last four years, I’ve learned a lot about mortality. I’ve faced harder challenges than I ever expected to personally experience—at least not at my age.Despite those challenges, I am happier than I ever have been. I spend most days in good spirits—oddly enough, even thankful for the challenges that I’ve overcome.I’ve created this happy outlook primarily through reading the Stoics, reflecting on what they’ve said, and trying to apply those lessons to my life.**Becoming a Stoic…**> **“If you’re going through hell, keep going.” -Winston Churchill**
+Graduation season is coming up, and with it, some great advice will be handed down via the time-honored tradition of commencement addresses. If I tapped to share my best advice, I’d want to pick something pithy enough to stick, but important enough to share *— *my personal version of [Wear Sunscreen](https://www.youtube.com/watch?v=sTJ7AzBIJoI).
+
+Here’s the best advice I could give on becoming more resilient, happier, and more successful: **Read Stoicism**.
+
+*A quick note before we get started — I don’t have quite the talent for brevity that *[*Mary Schmich*](https://www.youtube.com/watch?v=sTJ7AzBIJoI)* had when she penned “wear sunscreen.” So this essay may be on the long side. I apologize in advance. If you’d prefer to have it emailed to you so you can read it later, *[*click here*](http://eepurl.com/VfE3z)*.*
+
+In the last four years, I’ve learned a lot about mortality. I’ve faced harder challenges than I ever expected to personally experience—at least not at my age.
+
+Despite those challenges, I am happier than I ever have been. I spend most days in good spirits—oddly enough, even thankful for the challenges that I’ve overcome.
+
+I’ve created this happy outlook primarily through reading the Stoics, reflecting on what they’ve said, and trying to apply those lessons to my life.
+
+**Becoming a Stoic…**
+
+> **“If you’re going through hell, keep going.” -Winston Churchill**
 >
-> *Stoic ideas give me encouragement to keep fighting through hard challenges, even when I’d rather give up.*My first introduction to Stoicism came from reading Seneca’s Letters from a Stoic. It immediately helped me solve a problem that I was facing.I was shocked — I had always learned about philosophy as kind of an esoteric, academic thing. Certainly not something that was actually helpful. I was hooked, I bought more books.Today, I practice Stoicism as a type of life hack. It makes me happier with my current life and it pushes me to higher levels of accomplishment. Two sometimes competing concepts, both of which are important to me.Letters from a Stoic is brilliant, but it was so full of anachronisms that it was hard to read. Sometimes I devoted so much time to deciphering what Seneca is saying, that I wasn’t able to appreciate the advice he was giving. Nevertheless, I highlighted almost every page of that book. Today, when a close friend faces either a large challenge or opportunity, I often buy them a copy of Letters from a Stoic.**Until now. Today, a new book has replaced Letters from a Stoic as my go-to recommended introduction to Stoicism. **[**The Obstacle is the Way**](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358)**, written by Ryan Holiday. The book is a far more approachable place to start.**Reading this book reminded me of first learning about Stoicism—and it inspired me to write this post and share my best advice with you. I’ve suggested that many close friends look into Stoicism. If you’re feeling unsatisfied or unmotivated, I’d suggest that you look into it too. Of course, Stoicism is not a panacea. There are many paths to similar ideas. Ryan Holiday, the author of the book I recommend below, even points out that the title of his book: “The Obstacle is the Way”, is remarkably similar to [a Zen proverb](http://zenhabits.net/obstacle/): “The Obstacle is the Path.”Stoicism uniquely differs from other philosophies in it’s use of plain language and ideas. It’s easy to understand what the Stoics are trying to say (once you get past the anachronisms).The writings of Stoic philosophers offer pragmatic advice, uncomplicated by intricate language or presentation, that is both useful and immediately applicable.Stoicism has one of the easiest on-ramps I’ve seen in any type of personal development. You don’t have to be more flexible to get started, you don’t have to fundamentally change how your brain processes ideas, and you don’t have to parse dense and confusing texts.¹It’s even easier with The Obstacle is the Way. The book uses modern language and examples that make the concepts much easier to understand. It’s a far easier read, but still contains the core insights of Stoicism. It takes what was already a shorter on-ramp, and makes it even more approachable. That said — learning the principles is easy, **the challenge is in applying the knowledge, not in consuming it**.2 **Who can get value from Stoicism?**Anyone can apply Stoicism to their life. The challenges that the Stoic authors tried to solve include common challenges that we all face today.Here are some examples of challenges that friends of mine have faced where a Stoic outlook helped them tackle the issue:1.  How to build a stable career in uncertain times
+> *Stoic ideas give me encouragement to keep fighting through hard challenges, even when I’d rather give up.*
+
+My first introduction to Stoicism came from reading Seneca’s Letters from a Stoic. It immediately helped me solve a problem that I was facing.
+
+I was shocked — I had always learned about philosophy as kind of an esoteric, academic thing. Certainly not something that was actually helpful. I was hooked, I bought more books.
+
+Today, I practice Stoicism as a type of life hack. It makes me happier with my current life and it pushes me to higher levels of accomplishment. Two sometimes competing concepts, both of which are important to me.
+
+Letters from a Stoic is brilliant, but it was so full of anachronisms that it was hard to read. Sometimes I devoted so much time to deciphering what Seneca is saying, that I wasn’t able to appreciate the advice he was giving. 
+
+Nevertheless, I highlighted almost every page of that book. Today, when a close friend faces either a large challenge or opportunity, I often buy them a copy of Letters from a Stoic.
+
+**Until now. Today, a new book has replaced Letters from a Stoic as my go-to recommended introduction to Stoicism. **[**The Obstacle is the Way**](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358)**, written by Ryan Holiday. The book is a far more approachable place to start.**
+
+Reading this book reminded me of first learning about Stoicism—and it inspired me to write this post and share my best advice with you. I’ve suggested that many close friends look into Stoicism. If you’re feeling unsatisfied or unmotivated, I’d suggest that you look into it too. 
+
+Of course, Stoicism is not a panacea. There are many paths to similar ideas. Ryan Holiday, the author of the book I recommend below, even points out that the title of his book: “The Obstacle is the Way”, is remarkably similar to [a Zen proverb](http://zenhabits.net/obstacle/): “The Obstacle is the Path.”
+
+Stoicism uniquely differs from other philosophies in it’s use of plain language and ideas. It’s easy to understand what the Stoics are trying to say (once you get past the anachronisms).
+
+The writings of Stoic philosophers offer pragmatic advice, uncomplicated by intricate language or presentation, that is both useful and immediately applicable.
+
+Stoicism has one of the easiest on-ramps I’ve seen in any type of personal development. You don’t have to be more flexible to get started, you don’t have to fundamentally change how your brain processes ideas, and you don’t have to parse dense and confusing texts.¹
+
+It’s even easier with The Obstacle is the Way. The book uses modern language and examples that make the concepts much easier to understand. It’s a far easier read, but still contains the core insights of Stoicism. It takes what was already a shorter on-ramp, and makes it even more approachable. That said — learning the principles is easy, **the challenge is in applying the knowledge, not in consuming it**.2 
+
+**Who can get value from Stoicism?**
+
+Anyone can apply Stoicism to their life. The challenges that the Stoic authors tried to solve include common challenges that we all face today.
+
+Here are some examples of challenges that friends of mine have faced where a Stoic outlook helped them tackle the issue:
+
+1.  How to build a stable career in uncertain times
 
 2.  How to build and retain strong friendships
 
@@ -24,7 +70,13 @@ Graduation season is coming up, and with it, some great advice will be handed do
 
 4.  How to deal with the death of a loved one
 
-5.  How to live a happier lifeIn an interview I did with Ryan (see below), he noted that Stoicism commonly sees a resurgence during uncertain times. As we undergo one of the biggest cultural and economic shifts since the industrial revolution, it’s not hard to see how everyone can get increased value from the Stoics.For particularly ambitious people, Stoicism is even more useful. It helps you prioritize properly, develop a penchant for action, and motivate yourself through dark times. It helps you develop as a leader. In his book, Ryan shows just how many of history’s greatest leaders embodied stoic principles:1.  John D. Rockefeller
+5.  How to live a happier life
+
+In an interview I did with Ryan (see below), he noted that Stoicism commonly sees a resurgence during uncertain times. As we undergo one of the biggest cultural and economic shifts since the industrial revolution, it’s not hard to see how everyone can get increased value from the Stoics.
+
+For particularly ambitious people, Stoicism is even more useful. It helps you prioritize properly, develop a penchant for action, and motivate yourself through dark times. It helps you develop as a leader. In his book, Ryan shows just how many of history’s greatest leaders embodied stoic principles:
+
+1.  John D. Rockefeller
 
 2.  George Washington
 
@@ -42,7 +94,25 @@ Graduation season is coming up, and with it, some great advice will be handed do
 
 9.  Dwight Eisenhower
 
-10. the list goes on…[The Obstacle is the Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358) is the best introduction to Stoicism that I’ve found. Despite getting a free digital copy to review, I already purchased two additional copies knowing that I’ll want to give them to friends. I suspect Ryan’s book will improve many lives3, just as the first time I read Seneca improved mine. If you’re a new grad, and your commencement speaker was lackluster, so you’re reading this looking for my best advice, here it is: read that book.If you are already happy and effective, feel free to ignore or engage only academically with Stoicism, you clearly have a system that works for you. If you feel like you need some help improving, I’d suggest reading the Stoics. You could start with [Ryan’s book](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358), [Seneca](http://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103), or [even just the right reddit thread](http://www.reddit.com/r/stoicism).I’ve included a list of resources4 at the bottom of this essay which can be a great place to start. If you don’t trust my word on why this study might be worth your time, I think Henry Fielding [sums it up](http://grammar.about.com/od/classicessays/a/readingforamusementfielding\_2.htm) quite eloquently (emphasis mine):> **If a man, for instance, should be overloaded with prosperity or adversity (both of which cases are liable to happen to us)**, who is there so very wise, or so very foolish, that, if he were a master of Seneca and Plutarch, could not find great matter of comfort and utility from their doctrines?**An interview with the author**After reading the book, I sat down to review my notes (over 150 highlights, notes, quotes, and links). From that review, I wrote down a few questions that I thought would make a useful compendium to this essay—something that would summarize Stoicism and the book from Ryan’s point of view.Ryan was gracious enough to answer them in depth and with examples. > **Tyler: **Let’s start with a simple definition, what is Stoicism?
+10. the list goes on…
+
+[The Obstacle is the Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358) is the best introduction to Stoicism that I’ve found. Despite getting a free digital copy to review, I already purchased two additional copies knowing that I’ll want to give them to friends. 
+
+I suspect Ryan’s book will improve many lives3, just as the first time I read Seneca improved mine. If you’re a new grad, and your commencement speaker was lackluster, so you’re reading this looking for my best advice, here it is: read that book.
+
+If you are already happy and effective, feel free to ignore or engage only academically with Stoicism, you clearly have a system that works for you. If you feel like you need some help improving, I’d suggest reading the Stoics. You could start with [Ryan’s book](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358), [Seneca](http://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103), or [even just the right reddit thread](http://www.reddit.com/r/stoicism).
+
+I’ve included a list of resources4 at the bottom of this essay which can be a great place to start. If you don’t trust my word on why this study might be worth your time, I think Henry Fielding [sums it up](http://grammar.about.com/od/classicessays/a/readingforamusementfielding\_2.htm) quite eloquently (emphasis mine):
+
+> **If a man, for instance, should be overloaded with prosperity or adversity (both of which cases are liable to happen to us)**, who is there so very wise, or so very foolish, that, if he were a master of Seneca and Plutarch, could not find great matter of comfort and utility from their doctrines?
+
+**An interview with the author**
+
+After reading the book, I sat down to review my notes (over 150 highlights, notes, quotes, and links). From that review, I wrote down a few questions that I thought would make a useful compendium to this essay—something that would summarize Stoicism and the book from Ryan’s point of view.
+
+Ryan was gracious enough to answer them in depth and with examples. 
+
+> **Tyler: **Let’s start with a simple definition, what is Stoicism?
 >
 > **Ryan:** Stoicism is a philosophy that became popular with the elite of the Greco-Roman empire. Unlike other more theoretical schools of philosophy, Stoicism is a set of practical philosophical principles that are meant to be practiced in your life. The Ancient Stoics like Seneca and Marcus Aurelius wrote personal exhortations to themselves, never intending their writing for publication, so they lack the puffing and rationalization that comes from presenting yourself to an audience. It’s really a system designed to direct our actions and thoughts in an inherently unpredictable world. 
 >
@@ -76,7 +146,11 @@ Graduation season is coming up, and with it, some great advice will be handed do
 >
 > **Ryan: **Well I recognized from the beginning that there aren’t many people looking for a book on practical philosophy. And there’s no way to improve upon the original writing of Marcus Aurelius, Epictetus, and Seneca, so I wasn’t going to try a fool’s errand. 
 >
-> But from my training with Robert Greene and my research throughout the years I was able to recognize stories of great people from history who overcame tremendous adversity and were practicing these Stoic principles whether they knew it or not. Some of the chapters in the book aren’t based on any specific Stoic principle at all, but the stories and the people within them certainly embody the spirit of Stoicism. *\[Note from Tyler: I can’t praise the decision to use tangible examples from familiar people enough. This decision, more than any other, is what made this the most readable book on Stoicism I’ve encountered.]*> **Tyler: **What is the most important idea in the book?
+> But from my training with Robert Greene and my research throughout the years I was able to recognize stories of great people from history who overcame tremendous adversity and were practicing these Stoic principles whether they knew it or not. Some of the chapters in the book aren’t based on any specific Stoic principle at all, but the stories and the people within them certainly embody the spirit of Stoicism. 
+
+*\[Note from Tyler: I can’t praise the decision to use tangible examples from familiar people enough. This decision, more than any other, is what made this the most readable book on Stoicism I’ve encountered.]*
+
+> **Tyler: **What is the most important idea in the book?
 >
 > **Ryan: **I think the most important idea of the book is the Stoic maxim that the book is based on: 
 >
@@ -106,7 +180,11 @@ Graduation season is coming up, and with it, some great advice will be handed do
 >
 > **Ryan: **I think in some ways we have become entitled and expect certain things to go our way. Don’t get me wrong, technology has improved our lives in unimaginable ways and will continue to, but there is a dark side to it that I think we are a little reticent to talk about. 
 >
-> A lot of kids of my generation expected to get a decent job coming out of college, but then the recession hit, and all of the narratives we had been told growing up weren’t the case anymore. [Instead of getting angry or giving up](https://medium.com/millennials-today/dfe8671bec85), I think it’s important to remember that earlier generations faced much worse problems than us and had fewer safety nets at their disposal. And so we should instead double down and at least take a chance to prove ourselves instead of expecting things to return back to the way they were.*\[Note from Tyler: Charlie Hoehn’s *[*The Recession Proof Graduate*](http://www.amazon.com/Recession-Proof-Graduate-Charlie-Hoehn-ebook/dp/B00KCUAICI)* is a fantastic book for new and recent grads facing this situation. If I had a younger brother or sister graduating high-school this year, I would buy them The Obstacle is the Way, The Recession Proof Graduate, a box of condoms, and write a note that said “prepare for the things you want in life, and you’ll be much more likely to get them.”]*> **Tyler: **Some people say that Stoicism has too much emphasis on controlling your emotions — that it makes us more disciplined, but less human. What would you say to them?
+> A lot of kids of my generation expected to get a decent job coming out of college, but then the recession hit, and all of the narratives we had been told growing up weren’t the case anymore. [Instead of getting angry or giving up](https://medium.com/millennials-today/dfe8671bec85), I think it’s important to remember that earlier generations faced much worse problems than us and had fewer safety nets at their disposal. And so we should instead double down and at least take a chance to prove ourselves instead of expecting things to return back to the way they were.
+
+*\[Note from Tyler: Charlie Hoehn’s *[*The Recession Proof Graduate*](http://www.amazon.com/Recession-Proof-Graduate-Charlie-Hoehn-ebook/dp/B00KCUAICI)* is a fantastic book for new and recent grads facing this situation. If I had a younger brother or sister graduating high-school this year, I would buy them The Obstacle is the Way, The Recession Proof Graduate, a box of condoms, and write a note that said “prepare for the things you want in life, and you’ll be much more likely to get them.”]*
+
+> **Tyler: **Some people say that Stoicism has too much emphasis on controlling your emotions — that it makes us more disciplined, but less human. What would you say to them?
 >
 > **Ryan: **This is a common criticism of Stoicism, but I think it misses the point. Stoicism isn’t about being a negative or unfeeling person. If that’s what you get out of Stoicism I think you were probably predisposed to finding that before you studied it. It’s more of a meditative technique that transforms negative emotions into a sense of calm and perspective, instead of being paralyzed and engulfed by them.
 >
@@ -116,19 +194,79 @@ Graduation season is coming up, and with it, some great advice will be handed do
 >
 > Academics have the advantage of teaching and speaking about philosophy in journals and the classroom, so they can get theoretical and the incentives of academia call for that. But for normal people living normal lives, a theoretical discussion of metaphysics or what a chair represents isn’t going to do a whole lot of good for the guy struggling to find a job. 
 >
-> I think Stoicism is the most approachable and practical philosophy I’ve come across and that’s why its been so useful to me and others like Tim Ferriss who have become big proponents of it.—- Footnotes —-**1:** I don’t want you to think I’m discouraging yoga or meditation, in fact I practice both and have found value in both.When you’re actually getting deep into any self-improvement method, they all require real work. If you work to apply stoic principles, you’re rewiring your brain just as much as you would to practice meditation.The thing that I like about Stoicism is that you can get started easily, once you get going it’s just as much work as anything else that makes you better.—**2: A word of warning…**My experience with reading stoic philosophers has often been similar to reading a collection of common sense.The ideas contained inside are not complex or exceptionally novel, in fact, many of the same concepts have made it into other philosophies or religions. The Serenity prayer, for example, has always seemed to me like the perfect summation of Stoic beliefs:> Grant me the serenity to accept the things I cannot change,
+> I think Stoicism is the most approachable and practical philosophy I’ve come across and that’s why its been so useful to me and others like Tim Ferriss who have become big proponents of it.
+
+
+
+—- Footnotes —-
+
+**1:** 
+
+I don’t want you to think I’m discouraging yoga or meditation, in fact I practice both and have found value in both.
+
+When you’re actually getting deep into any self-improvement method, they all require real work. If you work to apply stoic principles, you’re rewiring your brain just as much as you would to practice meditation.
+
+The thing that I like about Stoicism is that you can get started easily, once you get going it’s just as much work as anything else that makes you better.
+
+—
+
+**2: A word of warning…**
+
+My experience with reading stoic philosophers has often been similar to reading a collection of common sense.
+
+The ideas contained inside are not complex or exceptionally novel, in fact, many of the same concepts have made it into other philosophies or religions. The Serenity prayer, for example, has always seemed to me like the perfect summation of Stoic beliefs:
+
+> Grant me the serenity to accept the things I cannot change,
 >
 > The courage to change the things I can,
 >
-> And wisdom to know the difference.The challenge in Stoic philosophy isn’t in trying to understand the ideas behind the books; it’s in actually applying Stoic principles consistently to your daily life.You won’t get there over night, I think of Stoicism as a practice—something that you improve in over time.—**3: **If you aren’t convinced that this can be helpful, and don’t want to take my word for it, or the words of historical leaders for it, here are some comments from the blog posts Ryan wrote and the Amazon reviews for his book:> I can say with personal experience that living this kind of life makes you a much, MUCH happier… healthier… wealthier and just better person all around.> I have used some of this through some really trying experiences. High anxiety situations. It worked most of the time, but needs practice like anything else.> I’ve seen it have some great impact on some of my friends. It’s empowering, realizing that you may not always have control over your surroundings or your circumstances, but you can always control yourself and how you act.> I’ve tried and been meaning to read into the stoicism books for some time, and even started a few times – but found it difficult to dig in as they weren’t very straightforward reads (not the easiest to pick up and get into for a 30 minute read).So Ryan’s book is really outstanding…> I learn important or difficult lessons best through stories and analogies. This book has great stories from history that taught me the tough lessons a lot of us need to learn about overcoming obstacles. Like Ryan says, it’s simple but it’s not easy. And that is probably the toughest lesson of them all. Also, Ulysses S. Grant was a certified badass.> The most succinct way I can put it: This book will make you better.> I’ve been extremely fortunate in my life to have many, many people who wanted to help me. They all gave great advice and a lot of that advice were in catchy little aphorisms that bothered the crap out of my stubborn self. What Ryan Holiday’s excellent work here is, is all of those spot-on aphorisms organized, researched, exemplified, and turned into actionable, practical tools.
+> And wisdom to know the difference.
+
+The challenge in Stoic philosophy isn’t in trying to understand the ideas behind the books; it’s in actually applying Stoic principles consistently to your daily life.
+
+You won’t get there over night, I think of Stoicism as a practice—something that you improve in over time.
+
+—
+
+**3: **
+
+If you aren’t convinced that this can be helpful, and don’t want to take my word for it, or the words of historical leaders for it, here are some comments from the blog posts Ryan wrote and the Amazon reviews for his book:
+
+> I can say with personal experience that living this kind of life makes you a much, MUCH happier… healthier… wealthier and just better person all around.
+
+> I have used some of this through some really trying experiences. High anxiety situations. It worked most of the time, but needs practice like anything else.
+
+> I’ve seen it have some great impact on some of my friends. It’s empowering, realizing that you may not always have control over your surroundings or your circumstances, but you can always control yourself and how you act.
+
+> I’ve tried and been meaning to read into the stoicism books for some time, and even started a few times – but found it difficult to dig in as they weren’t very straightforward reads (not the easiest to pick up and get into for a 30 minute read).So Ryan’s book is really outstanding…
+
+> I learn important or difficult lessons best through stories and analogies. This book has great stories from history that taught me the tough lessons a lot of us need to learn about overcoming obstacles. Like Ryan says, it’s simple but it’s not easy. And that is probably the toughest lesson of them all. Also, Ulysses S. Grant was a certified badass.
+
+> The most succinct way I can put it: This book will make you better.
+
+> I’ve been extremely fortunate in my life to have many, many people who wanted to help me. They all gave great advice and a lot of that advice were in catchy little aphorisms that bothered the crap out of my stubborn self. What Ryan Holiday’s excellent work here is, is all of those spot-on aphorisms organized, researched, exemplified, and turned into actionable, practical tools.
 >
-> This is not a book in a sense – this is a Swiss Army Knife for your attitude.> Devoured this book like a dragon on steroids. A self-help guide for those who hate self-help.
+> This is not a book in a sense – this is a Swiss Army Knife for your attitude.
+
+> Devoured this book like a dragon on steroids. A self-help guide for those who hate self-help.
 >
-> What can I say? It’s a super-practical book about stoicism and its many values.—**4: Resources for further study**Books:*   [The Obstacle is The Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358), by Ryan Holiday (a good entry text – don’t skip the reading recommendations at the back)
+> What can I say? It’s a super-practical book about stoicism and its many values.
+
+—
+
+**4: Resources for further study**
+
+Books:
+
+*   [The Obstacle is The Way](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358), by Ryan Holiday (a good entry text – don’t skip the reading recommendations at the back)
 
 *   [Letters from a Stoic](http://www.amazon.com/Letters-Stoic-Epistulae-Lucilium-Classics-ebook/dp/B002RI99KK/), by Seneca
 
-*   [Meditations](http://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI), by Marcus Aurelius (Gregory Hays translation)Online:*   [The Last Lecture](https://www.youtube.com/watch?v=ji5\_MqicxSo), Randy Pausch (video)
+*   [Meditations](http://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI), by Marcus Aurelius (Gregory Hays translation)
+
+Online:
+
+*   [The Last Lecture](https://www.youtube.com/watch?v=ji5\_MqicxSo), Randy Pausch (video)
 
 *   [Stoicism 101: A Practical Guide for Entrepreneurs](http://fourhourworkweek.com/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs/), Four Hour Blog, written by Ryan Holiday
 
@@ -140,9 +278,17 @@ Graduation season is coming up, and with it, some great advice will be handed do
 
 *   [A lecture series](https://www.youtube.com/watch?v=nLD09Qa3kMk), Marcus Aurelius
 
-*   [The Stoic Life](https://sites.google.com/site/thestoiclife) (website about stoicism)Similar Ideas:*   [If](http://www.poetryfoundation.org/poem/175772), Rudyard Kipling
+*   [The Stoic Life](https://sites.google.com/site/thestoiclife) (website about stoicism)
 
-*   [Man in the Arena](http://www.leadershipnow.com/leadingblog/2010/04/theodore_roosevelts_the_man_in.html) – Teddy RooseveltPhoto Credits:*   <https://flic.kr/p/8qoWjY>
+Similar Ideas:
+
+*   [If](http://www.poetryfoundation.org/poem/175772), Rudyard Kipling
+
+*   [Man in the Arena](http://www.leadershipnow.com/leadingblog/2010/04/theodore_roosevelts_the_man_in.html) – Teddy Roosevelt
+
+Photo Credits:
+
+*   <https://flic.kr/p/8qoWjY>
 
 *   <https://flic.kr/p/crFLbA>
 
