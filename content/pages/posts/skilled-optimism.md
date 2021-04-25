@@ -70,13 +70,13 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 3.  **You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
 
-## What is skilled optimism?
+## What is skill-and-tool optimism?
 
-Skilled optimism is the belief that people can acquire and use skills to make the world a better place.
+Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. It allows for activity on the personal level, which encourages intrinsic motivation, without losing connection to collective goals. 
 
 This works because it's self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
 
-Developing a belief in skilled optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
+Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
 
 1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
 
@@ -112,7 +112,7 @@ Get more or desire less.
 
 Optimism and naivety do not need to go hand-in-hand. If you believe that society can intentionally get better, you naturally should believe that you and other people can get better too. You can focus on an immediate practice: improve your skills and tools, use those to improve the world around you, and give those skills and tools freely to others.
 
-Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, Skilled Optimism is a practical way to be happier, more effective, and more pro-social.
+Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, skill-and-tool optimism is a practical way to be happier, more effective, and more pro-social.
 
 Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
 
