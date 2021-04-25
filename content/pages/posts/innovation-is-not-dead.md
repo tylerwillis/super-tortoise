@@ -14,8 +14,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Innovation is alive and well.
-
 Most people seem convinced that Silicon Valley has lost its way. They will tell you that we collectively have stopped focusing on disruptive innovation. That we have fallen into the trap of funding incremental innovation or solving meaningless problems. A minority of these folks actually believe that we’ve skipped over innovation at all and now just do anything we think might have a chance to sell to a greater fool.
 
 Many examples can be (and frequently are) cited here, each reader can probably easily list three from the past week. Even notable people immersed in the industry often feel intuitively like we’ve stopped innovating.
