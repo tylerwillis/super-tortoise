@@ -14,11 +14,13 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-**About the author.
-**Over the last 8 years, I’ve been an active executive or founder (working full-time on a startup) and an active angel investor (investing in about one company per month). I’ve done pretty well: I’ve invested in unicorns and been part of successful startups, but I don’t think my story is all that unique. I’m one of the **many** people that started doing something odd in the last decade: investing in startups way earlier in my career than would historically have been possible and becoming what is somewhat regularly (now) called an “operator angel.”
+\*\*About the author.\*\*
 
-**What’s an Operator Angel?
-**It’s hard to describe the thousands of operator angels with generalities that apply to all of us, but there are a few common traits:
+Over the last 8 years, I’ve been an active executive or founder (working full-time on a startup) and an active angel investor (investing in about one company per month). I’ve done pretty well: I’ve invested in unicorns and been part of successful startups, but I don’t think my story is all that unique. I’m one of the **many** people that started doing something odd in the last decade: investing in startups way earlier in my career than would historically have been possible and becoming what is somewhat regularly (now) called an “operator angel.”
+
+\*\*What’s an Operator Angel?\*\*
+
+It’s hard to describe the thousands of operator angels with generalities that apply to all of us, but there are a few common traits:
 
 *   We generally have friendlier and less structured relationships with founders, chiefly because we’re still in the trenches working on our startups while we’re investing and are at a more similar career stage to the founders starting new companies.
 
@@ -32,15 +34,16 @@ Because of these facts, [we’ve become an increasingly large part of the early
 
 When compared to traditional VCs or Angel Investors; we have much less capital, we spend less time on investing, we are more nimble, and there are way more of us. Except for one notable exception (similar dynamics play out differently in cryptocurrency, which I will not address in this note), Operator Angels contribute to an evolution of the startup financing landscape, but not a revolution or disruption of venture capital — many of us are even supported by VC firms, with them giving us capital to invest for them as Scouts or LPs.
 
-**Operator Angels create increased experimentation and uncertainty.
-**As a general rule, the existence of Operator Angels introduces more variance into the startup financing landscape. We are a bit like free radicals in the venture ecosystem — more experimental and far less predictable or stable than traditional investors.
+\*\*Operator Angels create increased experimentation and uncertainty.
+\*\*As a general rule, the existence of Operator Angels introduces more variance into the startup financing landscape. We are a bit like free radicals in the venture ecosystem — more experimental and far less predictable or stable than traditional investors.
 
 This has extremely positive effects, namely increasing the type of investors and options available to founders as they build their companies.
 
 It also creates more uncertainty. It’s harder to model/predict our behavior. Individual operator angels may start and stop investing, switch between active and passive investing, try new experiments frequently, and have wide ranges on our average check size or focus areas.
 
-**The history that created Operator Angels.
-**The modern rise of Operator Angels has played out over the last decade or so. It started in 2009/2010 with the founding of AngelList and the start of the Sequoia scout program. Over the next few years, it became far easier to get access to small amounts of capital to invest in startups, which enabled hundreds of people to start angel investing earlier in their careers, often when they didn’t have much personal capital to invest.
+\*\*The history that created Operator Angels.\*\*
+
+The modern rise of Operator Angels has played out over the last decade or so. It started in 2009/2010 with the founding of AngelList and the start of the Sequoia scout program. Over the next few years, it became far easier to get access to small amounts of capital to invest in startups, which enabled hundreds of people to start angel investing earlier in their careers, often when they didn’t have much personal capital to invest.
 
 In 2012/2013, the forces creating Operator Angels became mature enough that we started seeing a Cambrian explosion of small, independent, early-stage investors. Many different factors enabled this:
 
@@ -58,8 +61,9 @@ In 2012/2013, the forces creating Operator Angels became mature enough that we s
 
 Taken together, this all led to a massive increase in new investors who were less proven, less minted in their careers, less wealthy, less experienced as investors, and more hungry to succeed. This created a competitive early-stage investing environment as these new investors started trying to get into great deals and make a name for themselves.
 
-**The impact of Operator Angels
-**These new investors were much more independent than traditional investors, but much less powerful. They were able to make investment decisions independently, and there was a net increase in “check-writing authority.” Because new investors are generally bullish, and these investors had sole authority to make decisions, a larger number of founders and startups were able to raise money. But these new investors didn’t usually have enough capital to fund a company alone, and many watched some of their early investments struggle to raise enough and ultimately fail as companies.
+**The impact of Operator Angels**
+
+These new investors were much more independent than traditional investors, but much less powerful. They were able to make investment decisions independently, and there was a net increase in “check-writing authority.” Because new investors are generally bullish, and these investors had sole authority to make decisions, a larger number of founders and startups were able to raise money. But these new investors didn’t usually have enough capital to fund a company alone, and many watched some of their early investments struggle to raise enough and ultimately fail as companies.
 
 Quickly, these investors learned that they had to work collaboratively with other operator angels and venture funds — and that they had to invest in companies that could attract other investors very quickly. That narrowed the criteria on what looked like an “investable” opportunity, and the demand for hot companies went through the roof, while the demand for the average startup saw a much more modest increase in demand. Both the speed and valuations of well-liked early-stage companies were drastically altered. Company founders experienced a much wider variance in fundraising. Popular companies with little-to-no traction raised early rounds in days at valuations 2-3x higher than they would have gotten 2 years earlier. Middle-of-the-pack companies struggled for months to get any investor attention at all.
 
@@ -74,10 +78,9 @@ Given the opportunity appearing at the early stage, successful early operator an
 
 This bifurcated the market – with fewer late-stage funds getting a larger percentage of overall dollars allocated to venture capital, but many more small early-stage funds being created. In 2014, Scott Kupor [called this the “death of the middle”](https://www.youtube.com/watch?v=bPfaRExYJqs\&list=PLOStnEM8wBOa75Y9qaQEvrZvKsHeoChvm\&index=5) and noted that this was similar to what happened in many other mature service industries.
 
-**This is how we got so much more novelty and experimentation in venture capital models, even as power solidified and accrued to a smaller number of firms. **The number of operating angels and emerging managers grew significantly, but large amounts of power accrued to the people with network centrality and access to lots of capital (famous venture firms, AngelList, etc.). This is why the oft-predicted “total disruption of venture capital” never really materialized, despite the fact that the rate of new firm creation and new experimental models continued to grow quickly.
+**This is how we got so much more novelty and experimentation in venture capital models, even as power solidified and accrued to a smaller number of firms.** The number of operating angels and emerging managers grew significantly, but large amounts of power accrued to the people with network centrality and access to lots of capital (famous venture firms, AngelList, etc.). This is why the oft-predicted “total disruption of venture capital” never really materialized, despite the fact that the rate of new firm creation and new experimental models continued to grow quickly.
 
-**Where are we now and where will this all go?
-**The venture capital industry has always operated like a federation of independent firms. Venture firms have long had to compete with each other in any given fundraising round and then switch to co-operating with each other across multiple rounds. That created a complex and evolving political landscape with changing alliances and dynamics. Now, with all these new individuals and small firms, many more independent investors are jockeying for position and the rate of change in dynamics between investors is more rapid than ever.
+**Where are we now and where will this all go?** The venture capital industry has always operated like a federation of independent firms. Venture firms have long had to compete with each other in any given fundraising round and then switch to co-operating with each other across multiple rounds. That created a complex and evolving political landscape with changing alliances and dynamics. Now, with all these new individuals and small firms, many more independent investors are jockeying for position and the rate of change in dynamics between investors is more rapid than ever.
 
 The most powerful firms, those at the center of the network, continue to accrue more power. As they get more powerful, they share this power with their allies and diffuse more agency and decision making to independent actors outside of their firms. You see this happening today as VCs regularly back new seed-stage funds, angel funds, and scouts. This continually creates more opportunities for investors that look different than historical norms to get started in this industry, but it also runs the risk of creating a feudal system with a few firms exerting pressure on smaller investors that functionally act as their vassals.
 
