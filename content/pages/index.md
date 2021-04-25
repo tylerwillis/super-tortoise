@@ -59,6 +59,7 @@ sections:
       people can get better and accomplish impressive things despite being in
       over their heads at the start.
 
+
       *Every recording is shared first with a small, trusted audience. In a
       process that loosely resembles peer review, people react to episodes and
       when both they and the guest agree, we publish the episode publicly.*
