@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Tyler is... Investing
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
