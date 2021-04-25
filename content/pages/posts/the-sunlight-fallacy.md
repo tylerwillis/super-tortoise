@@ -4,7 +4,12 @@ subtitle: 'The world''s getting better, why does it feel worse?'
 date: '2020-01-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  We need to know that something is bad before we can address the issues causing
+  it, but we are hard-wired to internalize bad news preferentially. That means
+  that the faster we learn about bad things, the faster we fix them and make the
+  world better, but the more convinced we become that the world is a bad place.
+  That’s “The Sunlight Fallacy.”
 seo:
   title: ''
   description: ''
