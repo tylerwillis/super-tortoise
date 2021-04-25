@@ -68,7 +68,8 @@ sections:
 </form>
 </div>
 
-<!--End mc_embed_signup-->## Going deep on skills and tools.
+<!--End mc_embed_signup-->
+## Going deep on skills and tools.
 
 
       <iframe width="100%" height="390" frameborder="no" scrolling="no" seamless
