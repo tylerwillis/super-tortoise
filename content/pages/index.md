@@ -57,7 +57,7 @@ sections:
 
       This podcast covers whatever I find interesting, and often gets wonky
       about skills and tools. I try to show how people accomplish impressive
-      things by intentionally learning new skills.
+      things by intentionally learning new things.
 
 
       *Every recording is shared first with a small, trusted audience. In a
