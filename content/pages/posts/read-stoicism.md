@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Read Stoicism
 subtitle: Originally Published in Big Think in May of 2014
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
