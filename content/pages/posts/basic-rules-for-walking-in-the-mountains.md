@@ -44,14 +44,25 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Calling someone an optimist is often a back-handed compliment. In uncertain times (all times are uncertain), optimists are seen as having a certain naive nature that makes them cute, but also a little dangerous. People worry that an optimist is ignoring warnings on the way to catastrophic failure. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit it.
 
-Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
+That is terrible advice. To thrive, both individually and as a society, big dreams are important. People are happy when they think their world is getting better, and the world doesn't get meaningfully better unless some people dream impossible dreams and then work intentionally to achieve them. We should all dream big dreams and work on achieving them; doing so will improve the world around us, for ourselves and for others.
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+Unfortunately, people that do this often find themselves frustrated and unhappy. They worry that their vision for the future is wrong or they become deeply frustrated by the many blockers in their way. That frustrated state is easy to fall into and can last for a lifetime, but it's completely unnecessary. If you develop the right attitude and work ethic, you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it).
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+This essay encapsulates what I think is the best way to do this: adopting a practical philosophy that allows you to acknowledge those frustrations and move past them. This is the best way I've found to be personally happy while caring about accomplishing something hard.
 
-## Long Distance Hiking
+## Skilled Optimism
+
+Skilled optimism is the belief that people can acquire and use skills to make the world a better place.
+
+Desire is a contract that you make with yourself to be unhappy until you get what you want
+
+Optimism and naivety do not need to go hand-in-hand. If you believe that society can intentionally get better, you naturally should believe that you and other people can get better too. You can focus on an immediate practice: improve your skills and tools, use those to improve the world around you, and give those skills and tools freely to others.
+
+Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, Skilled Optimism is a practical way to be happier, more effective, and more pro-social.
+
+## Skilled Optimism
 
 Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
 
