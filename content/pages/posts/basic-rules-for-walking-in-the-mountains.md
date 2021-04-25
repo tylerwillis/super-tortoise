@@ -44,154 +44,64 @@ seo:
       relativeUrl: true
 layout: post
 ---
-\## You can be both happy and driven.
-
-
-
+## You can be both happy and driven.
 
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice.
 
-
-
-
 Resigning ourselves to cynicism is choosing to lead poorer lives. Big dreams help us thrive because people are happy when they think their world is getting better. All improvements require someone to come up with a new idea and work intentionally to achieve it. Thank god some do.
-
-
-
 
 Sadly, the people chasing the biggest dreams often find themselves frustrated and unhappy. They often start out dissatisfied (their motivation for change) and then encounter roadblocks that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
 
-
-
-
 I am one of those unhappy doers. I wanted to have an impact, and no matter what I accomplished, I was always unhappy it wasn’t more and that it hadn’t happened faster. I realized I was unhappy pretty early on, but I fought dealing with it. I saw that a lot of the people I looked up to were unhappy too, and assumed the ones who weren’t unhappy just got lucky in the brain chemistry lottery. I avoided therapy for years because I worried that I’d lose my ambition.
-
-
-
 
 Over the last 5-6 years, I’ve discovered some tools that help me be both happy in the moment and ambitious for the future. They changed my experience dramatically, and they seem to be pretty universal ideas that might help you do the same.
 
-
-
-
 If you take nothing else from this essay, here’s what I hope you’ll hear: \*\*You can be happy doing great things, even if you’re struggling with one or both of those today. Desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want. You can be happy in the belief that improvement is possible, well before you make any actual improvement.\*\*
 
-
-
-
-\## What is skilled optimism?
-
-
-
+## What is skilled optimism?
 
 Skilled optimism is the belief that people can acquire and use skills to make the world a better place.
 
-
-
-
 This works because it's self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
-
-
-
 
 Developing a belief in skilled optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
 
+1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
 
+2.  **Self-improvement:** a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
 
+3.  **Internal focus:** a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
 
-1.  \*\*Optimism:\*\* a belief that huge positive changes are just hard, not impossible.
+4.  **Pro-social:** a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
 
-
-
-
-2.  \*\*Self-improvement:\*\* a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
-
-
-
-
-3.  \*\*Internal focus:\*\* a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
-
-
-
-
-4.  \*\*Pro-social:\*\* a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
-
-
-
-
-5.  \*\*Desire:\*\* a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
-
-
-
+5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
 
 None of us are born believing all of those things. Some of us develop those beliefs through our life experiences; most of us do not. By trying to change our experience, we can develop those beliefs. Once we develop them, they are
 
-
-
-
 If you look at that list and thi
-
-
-
 
 The world can get better if you get better, you can get better, and there's no requirement to "win" the race
 
-
-
-
-\## How to build the mindset if you don't have it
-
-
-
+## How to build the mindset if you don't have it
 
 You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I wasn't lucky enough to have this experience.
 
-
-
-
 Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop.
 
-
-
-
-\## ---
-
-
-
+## ---
 
 You have to have a vision for what change you'd like to make. But, if you believe that self-improvement is required to accomplish that vision, and focus on the process of self-improvement instead of the outcome, then you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it). You can be content in the present moment while working for something you care about in the future.
 
-
-
-
 Even with that advantage, it took me 15-30 years to develop . i hope this is a short circuit for others.
-
-
-
 
 "Comparison is the thief of joy" - every person you admire failed thousands of times.  Being focused on your own work & the knowledge that failure is part of self-improvement and doesn't invalidate you.
 
-
-
-
 Get more or desire less.
-
-
-
 
 Optimism and naivety do not need to go hand-in-hand. If you believe that society can intentionally get better, you naturally should believe that you and other people can get better too. You can focus on an immediate practice: improve your skills and tools, use those to improve the world around you, and give those skills and tools freely to others.
 
-
-
-
 Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, Skilled Optimism is a practical way to be happier, more effective, and more pro-social.
-
-
-
 
 Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
 
-
-
-
-\\---[](https://en.wikipedia.org/wiki/Hiking)[](https://en.wikipedia.org/wiki/Hiking)
+### ---[](https://en.wikipedia.org/wiki/Hiking)[](https://en.wikipedia.org/wiki/Hiking)
