@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: I’m an entrepreneur and investor in the technology industry.
+subtitle: >-
+  I'm the Co-founder of Unsupervised, which helps people analyze complex data
+  and find opportunities.
 img_path: images/Tyler Product Shot.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
