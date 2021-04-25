@@ -41,4 +41,4 @@ Prior to founding Unsupervised, Tyler served as the CMO of Hired.com, a career m
 
 *Editor's note: In something that delighted my family members (and led to endless teasing), The New Yorker once insinuated (very kindly!) that I was unfocused when they wrote: "People like Willis, young and urban and professionally diffuse, tend to regard success in terms of autonomy—designing your life as you want—rather than Napoleonic domination."*
 
-*Since then, I'm proud to have been an example that you can still be successful while walking the road less traveled.*
+*I'm proud to be an example that you can still be successful while walking the road less traveled.*
