@@ -39,8 +39,6 @@ In addition to his work at Unsupervised, Tyler is an active angel investor — m
 
 Prior to founding Unsupervised, Tyler served as the CMO of Hired.com, a career marketplace that has raised over $100 Million to help talented people find jobs they love, and previously ran sales, growth marketing, partnerships, and M\&A across several top-performing startups. Insatiably curious, he's always looking for the next thing to learn.
 
-
-
 *Editor's note: In something that delighted my family members (and led to endless teasing), The New Yorker once insinuated (very kindly!) that I was unfocused when they wrote: "People like Willis, young and urban and professionally diffuse, tend to regard success in terms of autonomy—designing your life as you want—rather than Napoleonic domination."*
 
-*Since then, I think I've shown that you can be successful walking the road less traveled.*
+*Since then, I'm proud to have been an example that you can still be successful while walking the road less traveled.*
