@@ -51,7 +51,7 @@ sections:
       ## Lorem ipsum
 
 
-      \<iframe width="100%" height="180" frameborder="no" scrolling="no"
+      <iframe width="100%" height="180" frameborder="no" scrolling="no"
       seamless src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
 
