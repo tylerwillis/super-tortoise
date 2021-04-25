@@ -22,11 +22,9 @@ People who are just getting started in angel investing should get comfortable wi
 
 Two years ago, my first company was acquired by Oracle and four members of our early team, including myself, became part time angel investors. Before I started investing, I tried to learn as much as possible about angel investing. In all of the things I read and people I talked to, two posts stood out as particularly helpful: Paul Graham’s post [How to Be an Angel Investor](http://www.paulgraham.com/angelinvesting.html) and Naval and Nivi’s [How to be an angel investor, Part 2](http://venturehacks.com/articles/angel). These posts were helpful because they did away with the inside baseball and tried to present a comprehensive overview for a novice investor.
 
-This year, several of my friends became accredited and asked for my advice on angel investing. Inspired by the opportunity to help them, I looked back on my first year of investing and tried to tie all of those lessons up in a comprehensive overview–think of it as Angel Investing 101. Drawing on the previous two posts, I called the presentation [How to Be an Angel Investor, Part 3](https://www.slideshare.net/tylerwillis/growing-wings-37622237).
+This year, several of my friends became accredited and asked for my advice on angel investing. Inspired by the opportunity to help them, I looked back on my first year of investing and tried to tie all of those lessons up in a comprehensive overview–think of it as Angel Investing 101. 
 
-
-
-
+Drawing on the previous two posts, I called the presentation [How to Be an Angel Investor, Part 3](https://www.slideshare.net/tylerwillis/growing-wings-37622237).
 
 Success as an angel investor boils down to whether you can pick the right companies. The information in this presentation won’t make you a successful angel investor on it’s own, but it can help you avoid the common pitfalls and develop a better understanding of how this market works and whether you’re ready for it.
 
