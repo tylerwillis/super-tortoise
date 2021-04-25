@@ -1,6 +1,6 @@
 ---
 title: Innovation isn't dead
-subtitle: lorem-ipsum
+subtitle: Innovation is alive and well.
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
