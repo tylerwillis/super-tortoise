@@ -29,7 +29,7 @@ sections:
     actions:
       - label: Back the Fund
         url: 'https://angel.co/v/l/STiEs'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
