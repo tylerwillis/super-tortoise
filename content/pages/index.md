@@ -50,12 +50,14 @@ sections:
     content: >
       ## Going deep on skills and tools.
 
-      <iframe width="100%" height="390" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/antipessimists/playlist"></iframe>
+
+      <iframe width="100%" height="390" frameborder="no" scrolling="no" seamless
+      src="https://share.transistor.fm/e/antipessimists/playlist"></iframe>
 
 
-      This podcast is varied (whatever I find interesting) and gets wonky about
-      skills and tools, it tries to show how people accomplish impressive things
-      by intentionally learning new skills.
+      This podcast is whatever I find interesting, and often gets wonky about
+      skills and tools. I try to show how people accomplish impressive things by
+      intentionally learning new skills.
 
 
       *Every recording is shared first with a small, trusted audience. In a
