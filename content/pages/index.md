@@ -55,9 +55,7 @@ sections:
       src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
 
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      Lorem ipsum
     actions: []
     type: section_content
   - section_id: featured-posts
