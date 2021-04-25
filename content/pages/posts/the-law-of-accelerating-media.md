@@ -1,6 +1,6 @@
 ---
 title: The Law of Accelerating Media
-subtitle: lorem-ipsum
+subtitle: 'Initially published in Mediapost,'
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
