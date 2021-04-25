@@ -1,7 +1,7 @@
 ---
 title: Read Stoicism
 subtitle: Originally Published in Big Think in May of 2014
-date: '2021-04-25'
+date: '2014-05-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
