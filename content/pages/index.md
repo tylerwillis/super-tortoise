@@ -56,7 +56,7 @@ sections:
 
 
       This podcast is varied (whatever I find interesting) and gets wonky about
-      skills and tools, I try to show how people accomplish impressive things
+      skills and tools, it tries to show how people accomplish impressive things
       despite being in over their heads by learning new skills.
 
 
