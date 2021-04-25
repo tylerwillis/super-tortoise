@@ -54,7 +54,7 @@ sections:
       <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless
       src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
-      <iframe src='https://share.transistor.fm/e/build-your-saas/playlist/dark' width='100%' height='390' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:390px;'></iframe>
+      <iframe width="100%" height="390" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/antipessimists/playlist"></iframe>
 
 
       This podcast is varied (whatever I find interesting) and gets wonky about
