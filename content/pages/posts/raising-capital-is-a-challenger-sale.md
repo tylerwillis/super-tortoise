@@ -4,7 +4,13 @@ subtitle: Good sales process works well in fundraising too.
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  You should approach fundraising the same way a salesperson would approach
+  challenger selling. Your job is not to find a VC that understands the problems
+  your company is facing, but to educate them on a better way to do something
+  that they hadn’t considered before. Founders that are good at fundraising know
+  something compelling about where the future is going and teach that to
+  investors so they can come along the journey with you.
 seo:
   title: ''
   description: ''
