@@ -48,7 +48,7 @@ layout: post
 
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as being naive in a way that makes them cute, but also a little stupid or dangerous. If you're optimistic about something, people will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit.
 
-That's terrible advice. You should be an optimist. You should dream very big dreams. You should work to make them happen. You can be happy and effective while you do it. And you can help other people be happier too.
+That's terrible advice. You should be an optimist. You should believe things can be better. You should dream big dreams. You should work to make them happen. You can be happy and effective while you do it. And you can help other people be happier too.
 
 ## Why should you be an optimist?
 
