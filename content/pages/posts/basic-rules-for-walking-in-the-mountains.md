@@ -52,11 +52,13 @@ That's terrible advice. You should be an optimist. You should dream very big dre
 
 ## Why should you be an optimist?
 
-Resigning ourselves to cynicism is choosing to lead poorer lives. Big dreams help us thrive because people are happy when they think their world is getting better. All improvements require someone to come up with a new idea and work intentionally to achieve it. Thank god some do.
+People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. Being optimistic gives you ideas about how to make things better, which is the first step in things getting better. If you want people to be happy, you need some optimists that are working to make the world better.
 
-Sadly, the people chasing the biggest dreams often find themselves frustrated and unhappy. They often start out dissatisfied (their motivation for change) and then encounter roadblocks that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
+When framed that way, I don't know a lot of people that don't want optimists to exist, but there are many people who think they shouldn't step into that role. There's a good reason why: the people chasing the biggest dreams are often extremely frustrated and unhappy in the present moment. They often start out dissatisfied by something (their motivation to change it) and while trying to change things, they hit challenges that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
 
-I am one of those unhappy doers. I wanted to have an impact, and no matter what I accomplished, I was always unhappy it wasn’t more and that it hadn’t happened faster. I realized I was unhappy pretty early on, but I didn't deal with it. A lot of the people I looked up to were unhappy too and I assumed the ones who weren’t unhappy just got lucky in the brain chemistry lottery. I avoided therapy for years because I worried that I’d lose the ambition that was the core of my identity.
+I am one of those unhappy doers, but over the past 5-6 years, I've found some tools that help me be satisfied without losing my ambition to improve things. I was a pretty 
+
+I wanted to have an impact, and no matter what I accomplished, I was always unhappy it wasn’t more and that it hadn’t happened faster. I realized I was unhappy pretty early on, but I didn't deal with it. A lot of the people I looked up to were unhappy too and I assumed the ones who weren’t unhappy just got lucky in the brain chemistry lottery. I avoided therapy for years because I worried that I’d lose the ambition that was the core of my identity.
 
 Over the last 5-6 years, I’ve discovered some tools that help me be both happy in the moment and ambitious for the future. They changed my experience dramatically, and they seem to be pretty universal ideas that might help you do the same.
 
@@ -107,5 +109,7 @@ Optimism and naivety do not need to go hand-in-hand. If you believe that society
 Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, Skilled Optimism is a practical way to be happier, more effective, and more pro-social.
 
 Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
+
+(and many who would prefer that people they know well not step into the role either)
 
 ### ---[](https://en.wikipedia.org/wiki/Hiking)[](https://en.wikipedia.org/wiki/Hiking)
