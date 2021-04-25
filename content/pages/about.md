@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: 'I''m the co-founder of Unsupervised, an investor in'
 img_path: images/Tyler Product Shot.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
