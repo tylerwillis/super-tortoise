@@ -47,12 +47,16 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |
+    content: >
       ## Lorem ipsum
 
 
+      \<iframe width="100%" height="180" frameborder="no" scrolling="no"
+      seamless src="https://share.transistor.fm/e/f011df6d">\</iframe>
+
 
       *   Lorem ipsum
+
       *   dolor sit amet
     actions: []
     type: section_content
