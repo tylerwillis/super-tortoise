@@ -52,13 +52,13 @@ That's terrible advice. You should be an optimist. You should dream very big dre
 
 ## Why should you be an optimist?
 
-People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. Being optimistic gives you ideas about how to make things better, which is the first step in things getting better. If you want people to be happy, you need some optimists that are working to make the world better.
+People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. Being optimistic gives you ideas about how to make things better, which is the first step in things getting better. If you want people to be happy, you need some optimists that are ambitious and working to make the world better. The more optimists you have, the more of them will be ambitious, and the better off the world will be.
 
 When framed that way, I don't know a lot of people that don't want optimists to exist, but there are many people who think they shouldn't step into that role. There's a good reason why: the people chasing the biggest dreams are often extremely frustrated and unhappy in the present moment. They often start out dissatisfied by something (their motivation to change it) and while trying to change things, they hit challenges that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
 
 I am one of those unhappy doers, but over the past 5-6 years, I've found some tools that help me be satisfied without losing my ambition to improve things. I was a pretty helpless case for a long time, I even avoided going to therapy because I was afraid that being happy would make me less ambitious, which felt like a very core part of my identity. When successful people advocated for therapy, a more balanced working style, or anything similar, I suspected that their ambition made them successful, and giving up some of that was easy to say after you'd achieved success and could afford it.
 
-If all of that is true — if you have to be unhappy to have an impact — then I respect that many people would rationally choose not to do it. But, I don't believe that anymore. If you take nothing else from this essay, here’s what I hope you’ll hear:
+If all of that is true — if you have to be unhappy to make things better — then I respect that many people would rationally choose not to do it. But, I don't believe that anymore. If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 1.  **You can be happy doing great things, even if you’re struggling with being happy or doing great things today.**
 
