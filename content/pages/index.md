@@ -19,8 +19,8 @@ sections:
 
       I think of myself as someone who believes very strongly in the ability to
       intentionally develop skills and tools that make us happier and help
-      improve the world. I call this practice **Skill-and-Tool Optimism** and I
-      do a lot of things that help me practice and evangelize that concept.
+      improve the world. I call this **Skill-and-Tool Optimism** and I do a lot
+      of things that help me practice and evangelize it.
 
 
       Currently, I'm building Unsupervised, I invest $2-4m/yr in promising
