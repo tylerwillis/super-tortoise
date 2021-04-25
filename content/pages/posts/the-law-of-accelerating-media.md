@@ -1,7 +1,7 @@
 ---
 title: The Law of Accelerating Media
 subtitle: 'Initially published in Mediapost on Feb. 23, 2012'
-date: '2021-04-25'
+date: '2021-03-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
