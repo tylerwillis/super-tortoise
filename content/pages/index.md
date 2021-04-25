@@ -51,7 +51,7 @@ sections:
       ## Going deep on skills and tools.
 
 
-      <iframe width="100%" height="360" frameborder="no" scrolling="no" seamless
+      <iframe width="100%" height="390" frameborder="no" scrolling="no" seamless
       src="https://share.transistor.fm/e/antipessimists/playlist"></iframe>
 
 
