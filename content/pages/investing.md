@@ -41,13 +41,6 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: Other Investing
-    section_id: lorem-ipsum
-    content: >
-      I also occasionally make personal investments in other private and public
-      equities.
-    actions: []
-    type: section_hero
 seo:
   title: ''
   description: ''
