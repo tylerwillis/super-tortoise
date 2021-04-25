@@ -24,12 +24,9 @@ Take Founder’s Fund now infamous statement:
 
 > “We wanted flying cars, instead we got 140 characters.”
 
-> Founder’s Fund Manifesto
-
 Yet their intuition turns out to be wrong, there are more ambitious ideas being pursued today, not less. If you were to re-write the Founder’s Fund Manifesto today, it would probably look more like this:
 
 > “We wanted flying cars, instead we got: private space travel, printable organs, fast global communication, cheap online education, self-driving cars, synthetic biology, Nano-satellites, digital currency, half the number of people who live under extreme poverty, and… Flying cars.”
-
 
 There are two primary reasons why we incorrectly feel like we’re losing ground.
 
@@ -37,10 +34,10 @@ The first stems from the way innovation works — you have to fund a large numbe
 
 “Trivial” things like desktop computers for normal people (Apple) or yet another search engine (Google), have gone on to become some of the most important companies in the world. These innovations often started with a sociological insight — the discovery of a new form of interaction that lots of people wanted, but didn’t know they wanted it until they saw it.
 
-> “If I asked what [people] wanted, they would have said faster horses. 
+> “If I asked what \[people] wanted, they would have said faster horses.
 > — Henry Ford
 
-> “I think there is a world market for maybe five computers. 
+> “I think there is a world market for maybe five computers.
 > — Thomas Watson (in 1943, alleged)
 
 Usually, the initial insight allows the founder to show progress and convince some early believers that it isn’t trivial. After that, this initial insight is then backed up by an incredible amount of hard work (both technical work and work on refining the sociological insight to amplify the signal of what people want) to actually build and deliver that new form of interaction to millions of people.
