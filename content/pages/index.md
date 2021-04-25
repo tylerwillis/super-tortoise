@@ -48,7 +48,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Lorem ipsum
+      ## Getting nerdy about optimism
 
 
       <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless
