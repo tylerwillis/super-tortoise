@@ -48,14 +48,24 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Getting nerdy about optimism
+      ## Going deep on skills and tools.
 
 
       <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless
       src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
 
-      Lorem ipsum
+      This podcast gets pretty wonky about skills and tools, I try to show how
+      people can get better and accomplish impressive things despite being in
+      over their heads at the start.  
+
+
+      Here are the public episodes. Every recording is shared first with a small
+      audience that share common values. Because we vet our audience and build
+      trust, guests are able to be vulnerable knowing our audience will be fair
+      to them and their ideas. In a process that loosely resembles peer review,
+      community members react to episodes and when both they and the guest agree
+      the podcast is worthy, we publish the episode publicly.
     actions: []
     type: section_content
   - section_id: featured-posts
