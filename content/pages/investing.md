@@ -41,7 +41,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: lorem-ipsum
+  - title: Other Investments
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
