@@ -120,9 +120,25 @@ Even with that advantage, it took me about 20 years from the first time I experi
 
 #### Where to start
 
-First things first, I want to review those 5 beliefs that I think make up the core of S\&T Optimisim: 
+First things first, I want to review those 5 beliefs that I think make up the core of S\&T Optimism. Read these and honestly react to each one. Which of these feel natural? Which of these are you skeptical of? Which do you believe but struggle with? Which do you strongly disagree with?
 
+1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
 
+2.  **Self-improvement:** a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
+
+3.  **Internal focus:** a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
+
+4.  **Pro-social:** a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
+
+5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
+
+Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that. How did your parents encourage or discourage these beliefs when you were young? (Yes, I know this seems like a therapy trope, but there's a reason therapists ask about this. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time).
+
+Preferably, take a break at this point. Just reflect on those thoughts for a little while. 
+
+When you come back to this, try to put aside those reactions and think about a future you that believes these things. How do you think you'd be different? Would being that person be better? Does this elicit any fear? Would you risk losing any part of yourself that you really love?
+
+I'm a little worried at this point that this sounds like cult re-programming. Before I go any further, let me note that you don't become a new person by  encouraging these beliefs 
 
 ## ---
 
