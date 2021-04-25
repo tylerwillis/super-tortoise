@@ -61,8 +61,8 @@ sections:
 
 
       *Every recording is shared first with a small, trusted audience. In a
-      process that loosely resembles peer review, people react to episodes and
-      when both they and the guest agree, we publish the episode publicly.*
+      process that loosely resembles peer review, people react to episodes. When
+      both they and the guest agree, we publish the episode publicly.*
     actions: []
     type: section_content
   - section_id: featured-posts
