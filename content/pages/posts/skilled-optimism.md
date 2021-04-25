@@ -72,9 +72,9 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 ## What is skill-and-tool optimism?
 
-Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. It allows for activity on the personal level, which encourages intrinsic motivation, without losing connection to collective goals. 
+Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. It allows for activity on the personal level, which encourages intrinsic motivation, without losing connection to larger goals.
 
-This works because it's self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
+Skill-and-tool optimism is a fantastic personal philosophy. You build beliefs that inspire both the actions and emotional state that you want, and the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
 
 Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
 
@@ -93,6 +93,8 @@ None of us are born believing all of those things. Some of us develop those beli
 If you look at that list and thi
 
 The world can get better if you get better, you can get better, and there's no requirement to "win" the race
+
+## Why is this important?
 
 ## How to build the mindset if you don't have it
 
