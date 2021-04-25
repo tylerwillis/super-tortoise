@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "Because of these facts,\_Operator Angels have become an increasingly large part of the early-stage funding that goes into new companies. And because it keeps getting easier to become one, a larger and more diverse group of people become Operator Angels every year. I expect this trend will continue for the foreseeable future."
 seo:
   title: ''
   description: ''
