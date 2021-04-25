@@ -46,13 +46,13 @@ layout: post
 ---
 ## You can be both happy and driven.
 
-Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice.
+Optimists are seen as having a naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice. You should be an optimist. You should dream very big dreams. You should work to make them happen. And you can be happy and effective while you do it.
 
 Resigning ourselves to cynicism is choosing to lead poorer lives. Big dreams help us thrive because people are happy when they think their world is getting better. All improvements require someone to come up with a new idea and work intentionally to achieve it. Thank god some do.
 
 Sadly, the people chasing the biggest dreams often find themselves frustrated and unhappy. They often start out dissatisfied (their motivation for change) and then encounter roadblocks that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
 
-I am one of those unhappy doers. I wanted to have an impact, and no matter what I accomplished, I was always unhappy it wasn’t more and that it hadn’t happened faster. I realized I was unhappy pretty early on, but I fought dealing with it. I saw that a lot of the people I looked up to were unhappy too, and assumed the ones who weren’t unhappy just got lucky in the brain chemistry lottery. I avoided therapy for years because I worried that I’d lose my ambition.
+I am one of those unhappy doers. I wanted to have an impact, and no matter what I accomplished, I was always unhappy it wasn’t more and that it hadn’t happened faster. I realized I was unhappy pretty early on, but I didn't deal with it. A lot of the people I looked up to were unhappy too and I assumed the ones who weren’t unhappy just got lucky in the brain chemistry lottery. I avoided therapy for years because I worried that I’d lose the ambition that was the core of my identity.
 
 Over the last 5-6 years, I’ve discovered some tools that help me be both happy in the moment and ambitious for the future. They changed my experience dramatically, and they seem to be pretty universal ideas that might help you do the same.
 
