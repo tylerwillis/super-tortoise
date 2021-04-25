@@ -46,9 +46,9 @@ layout: post
 ---
 ## You can be both happy and driven.
 
-Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a certain naive nature that makes them cute, but also a little dangerous. People worry that an optimist is ignoring warnings on the way to catastrophic failure. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit.
+Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a certain naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice. 
 
-That's terrible advice. If we resign ourselves to cynicism on what's possible, we chose to lead poorer lives. Big dreams are important and help us thrive. People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. We should all do that, for ourselves and for others.
+If we resign ourselves to cynicism on what's possible, we chose to lead poorer lives. Big dreams are important and help us thrive. People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. We should all do that, for ourselves and for others.
 
 Sadly, people chasing the biggest dreams often find themselves frustrated and unhappy. They worry that their vision for the future is wrong or they become deeply frustrated by the many blockers in their way. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy. Desire does not **need** to be a contract with yourself to be unhappy until you get what you want, you can be happy in the belief that improvement is possible, well before you make any actual improvement.
 
@@ -87,8 +87,6 @@ Curiousity and obsession are great hacks. They reframe the goal from accomplishm
 ## ---
 
 You have to have a vision for what change you'd like to make. But, if you believe that self-improvement is required to accomplish that vision, and focus on the process of self-improvement instead of the outcome, then you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it). You can be content in the present moment while working for something you care about in the future.
-
-
 
 Even with that advantage, it took me 15-30 years to develop . i hope this is a short circuit for others.
 
