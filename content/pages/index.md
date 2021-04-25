@@ -57,8 +57,7 @@ sections:
 
       This podcast gets pretty wonky about skills and tools, I try to show how
       people can get better and accomplish impressive things despite being in
-      over their heads at the start.
-
+      over their heads at the start. 
 
       *Every recording is shared first with a small, trusted audience. In a
       process that loosely resembles peer review, people react to episodes and
