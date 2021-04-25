@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Back SPVs
         url: '#'
         style: link
         icon_class: dev
