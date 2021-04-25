@@ -56,7 +56,7 @@ I am one of those unhappy doers. I wanted to have an impact, and no matter what 
 
 Over the last 5-6 years, I’ve discovered some tools that help me be both happy in the moment and ambitious for the future. They changed my experience dramatically, and they seem to be pretty universal ideas that might help you do the same.
 
-If you take nothing else from this essay, here’s what I hope you’ll hear: \*\*You can be happy doing great things, even if you’re struggling with one or both of those today. Desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want. You can be happy in the belief that improvement is possible, well before you make any actual improvement.\*\*
+If you take nothing else from this essay, here’s what I hope you’ll hear: **You can be happy doing great things, even if you’re struggling with one or both of those today. Desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want. You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
 
 ## What is skilled optimism?
 
@@ -66,15 +66,15 @@ This works because it's self re-enforcing: when you believe that worthwhile chan
 
 Developing a belief in skilled optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
 
-1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
+1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
 
-2.  **Self-improvement:** a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
+2.  **Self-improvement:** a belief that you can intentionally get better by developing skills and using tools, and that you can do so continuously.
 
-3.  **Internal focus:** a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
+3.  **Internal focus:** a belief that failure is just feedback that helps with self-improvement, not something that invalidates you or your efforts.
 
-4.  **Pro-social:** a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
+4.  **Pro-social:** a belief that people's success is proof of their effort and should re-enforce your optimism (and that yours is the same and will similarly inspire others).
 
-5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
+5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
 
 None of us are born believing all of those things. Some of us develop those beliefs through our life experiences; most of us do not. By trying to change our experience, we can develop those beliefs. Once we develop them, they are
 
