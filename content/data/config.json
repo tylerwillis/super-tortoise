@@ -33,7 +33,7 @@
             },
             {
                 "url": "mailto:email@email.com",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
