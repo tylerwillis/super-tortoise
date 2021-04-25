@@ -27,7 +27,7 @@ sections:
 
       *
     actions:
-      - label: 'Join the '
+      - label: Back the Fund
         url: '#'
         style: link
         icon_class: dev
