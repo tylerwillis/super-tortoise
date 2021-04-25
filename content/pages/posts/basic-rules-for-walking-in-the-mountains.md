@@ -52,7 +52,11 @@ That's terrible advice. You should be an optimist. You should believe things can
 
 ## Why should you be an optimist?
 
-People are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. Being optimistic gives you ideas about how to make things better, which is the first step in things getting better. If you want people to be happy, you need some optimists that are ambitious and working to make the world better. The more optimists you have, the more of them will be ambitious, and the better off the world will be.
+People are happy when they think their world is getting better and all improvements require someone to come up with a new idea and work to achieve it. 
+
+Being optimistic gives you ideas about how to make things better, which is the first step in things getting better. If you want people to be happy, you need some optimists that are ambitious and working to make the world better. 
+
+The more optimists you have, the more of them will be ambitious, and the better off the world will be.
 
 When framed that way, I don't know a lot of people that don't want optimists to exist, but there are many people who think they shouldn't step into that role. There's a good reason why: the people chasing the biggest dreams are often extremely frustrated and unhappy in the present moment. They often start out dissatisfied by something (their motivation to change it) and while trying to change things, they hit challenges that cause them to worry that their vision for the future is wrong or become deeply frustrated by the many challenges and failures. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy.
 
