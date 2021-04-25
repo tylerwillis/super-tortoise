@@ -224,7 +224,7 @@ The ideas contained inside are not complex or exceptionally novel, in fact, many
 
 The challenge in Stoic philosophy isn’t in trying to understand the ideas behind the books; it’s in actually applying Stoic principles consistently to your daily life.
 
-You won’t get there over night, I think of Stoicism as a practice—something that you improve in over time.
+You won’t get there overnight, I think of Stoicism as a practice—something that you improve in over time.
 
 —
 
