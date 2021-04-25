@@ -4,7 +4,12 @@ subtitle: Innovation is alive and well.
 date: '2014-12-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  “Trivial” things like desktop computers for normal people (Apple) or yet
+  another search engine (Google), have gone on to become some of the most
+  important companies in the world. These innovations often started with a
+  sociological insight — the discovery of a new form of interaction that lots of
+  people wanted, but didn’t know they wanted it until they saw it. 
 seo:
   title: ''
   description: ''
