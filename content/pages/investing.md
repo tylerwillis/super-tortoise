@@ -28,7 +28,7 @@ sections:
       *
     actions:
       - label: Back the Fund
-        url: angel.co/v/l/STiEs
+        url: 'https://angel.co/v/l/STiEs'
         style: link
         icon_class: dev
         new_window: false
