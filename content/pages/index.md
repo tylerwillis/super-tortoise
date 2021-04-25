@@ -57,7 +57,7 @@ sections:
 
       This podcast is varied (whatever I find interesting) and gets wonky about
       skills and tools, it tries to show how people accomplish impressive things
-      despite being in over their heads by learning new skills.
+      by intentionally learning new skills.
 
 
       *Every recording is shared first with a small, trusted audience. In a
