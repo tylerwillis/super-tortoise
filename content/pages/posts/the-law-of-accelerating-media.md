@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Law of Accelerating Media
 subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_img_alt: lorem-ipsum
