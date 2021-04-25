@@ -48,7 +48,7 @@ layout: post
 
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as having a certain naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice.
 
-Resigning ourselves to cynicism is chosing to lead poorer lives. Big dreams help us thrive, because people are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. We should all do that, for ourselves and for others.
+Resigning ourselves to cynicism is chosing to lead poorer lives. Big dreams help us thrive, because people are happy when they think their world is getting better, and all improvements require someone to come up with a new idea and work intentionally to achieve it. Life would be better if we all did that.
 
 Sadly, people chasing the biggest dreams often find themselves frustrated and unhappy. They worry that their vision for the future is wrong or they become deeply frustrated by the many blockers in their way. They may be driven enough to push through that and accomplish their goal, but you wouldn't consider them happy. Desire does not **need** to be a contract with yourself to be unhappy until you get what you want, you can be happy in the belief that improvement is possible, well before you make any actual improvement.
 
