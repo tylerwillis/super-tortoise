@@ -23,7 +23,7 @@ sections:
       of things that help me practice and evangelize it.
 
 
-      Currently, that includes building Unsupervised, investing $2-4m/yr in
+      Currently, that includes building Unsupervised, investing $2-4M/yr in
       promising startups, and talking about skill and tool optimism via this
       blog and my podcast.
     actions:
