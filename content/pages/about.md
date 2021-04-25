@@ -33,13 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**Tyler Willis** is the co-founder of Unsupervised, which helps companies discover opportunities in their data (over $55M so far) and has raised over $50M from top investors including Cathay Innovation, SignalFire, Coatue, Eniac Ventures, and Elad Gil.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+In addition to his work at Unsupervised, Tyler is an active investor — investing $2-4M/yr in early-stage technology companies. He's been an early-stage investor in companies like Patreon (now worth $4B), Clubhouse ($4B), Lattice ($1B), Lambda School, MainStreet, and On Deck.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
