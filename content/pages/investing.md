@@ -6,17 +6,26 @@ sections:
   - title: Tyler is... investing!
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Kepler Operator's Fund invests $2-4M/yr in startups and is open to
+      accredited investors.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      When I started investing, I was one of the few people that raised a small
+      VC fund while continuing to operate. I believed I could do both things
+      well at the same time, and that being an active operator gave me more
+      ability to find interesting companies and provide relevant help to them.
 
 
-      - Lorem ipsum
+      Since then, I've been one of the earliest investors in companies that are
+      now incredibly successful, including Patreon (now worth $4B), Clubhouse
+      ($4B), Lattice ($1B), MainStreet, On Deck, and several others. 
 
-      - dolor sit amet
+
+      [Accredited investors can back the fund here](angel.co/v/l/STiEs).
+
+
+      *
     actions: []
     type: section_content
   - title: lorem-ipsum
