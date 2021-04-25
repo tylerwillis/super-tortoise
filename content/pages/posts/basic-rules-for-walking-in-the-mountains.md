@@ -46,7 +46,11 @@ layout: post
 ---
 ## You can be both happy and driven.
 
-Optimists are seen as having a naive nature that makes them cute, but also a little stupid or dangerous. People will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. That's terrible advice. You should be an optimist. You should dream very big dreams. You should work to make them happen. And you can be happy and effective while you do it.
+Calling someone an optimist is often a back-handed compliment. Optimists are seen as being naive in a way that makes them cute, but also a little stupid or dangerous. If you're optimistic about something, people will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit. 
+
+Here's my read: that's absolutely terrible advice. You should be an optimist. You should dream very big dreams. You should work to make them happen. And you can be happy and effective while you do it.
+
+## Why should you be an optimist?
 
 Resigning ourselves to cynicism is choosing to lead poorer lives. Big dreams help us thrive because people are happy when they think their world is getting better. All improvements require someone to come up with a new idea and work intentionally to achieve it. Thank god some do.
 
