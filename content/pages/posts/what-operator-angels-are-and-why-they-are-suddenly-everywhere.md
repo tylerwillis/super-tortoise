@@ -14,11 +14,11 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-\*\*About the author.\*\*
+**About the author.**
 
 Over the last 8 years, I’ve been an active executive or founder (working full-time on a startup) and an active angel investor (investing in about one company per month). I’ve done pretty well: I’ve invested in unicorns and been part of successful startups, but I don’t think my story is all that unique. I’m one of the **many** people that started doing something odd in the last decade: investing in startups way earlier in my career than would historically have been possible and becoming what is somewhat regularly (now) called an “operator angel.”
 
-\*\*What’s an Operator Angel?\*\*
+**What’s an Operator Angel?**
 
 It’s hard to describe the thousands of operator angels with generalities that apply to all of us, but there are a few common traits:
 
@@ -34,14 +34,13 @@ Because of these facts, [we’ve become an increasingly large part of the early
 
 When compared to traditional VCs or Angel Investors; we have much less capital, we spend less time on investing, we are more nimble, and there are way more of us. Except for one notable exception (similar dynamics play out differently in cryptocurrency, which I will not address in this note), Operator Angels contribute to an evolution of the startup financing landscape, but not a revolution or disruption of venture capital — many of us are even supported by VC firms, with them giving us capital to invest for them as Scouts or LPs.
 
-\*\*Operator Angels create increased experimentation and uncertainty.
-\*\*As a general rule, the existence of Operator Angels introduces more variance into the startup financing landscape. We are a bit like free radicals in the venture ecosystem — more experimental and far less predictable or stable than traditional investors.
+**Operator Angels create increased experimentation and uncertainty.** As a general rule, the existence of Operator Angels introduces more variance into the startup financing landscape. We are a bit like free radicals in the venture ecosystem — more experimental and far less predictable or stable than traditional investors.
 
 This has extremely positive effects, namely increasing the type of investors and options available to founders as they build their companies.
 
 It also creates more uncertainty. It’s harder to model/predict our behavior. Individual operator angels may start and stop investing, switch between active and passive investing, try new experiments frequently, and have wide ranges on our average check size or focus areas.
 
-\*\*The history that created Operator Angels.\*\*
+**The history that created Operator Angels.**
 
 The modern rise of Operator Angels has played out over the last decade or so. It started in 2009/2010 with the founding of AngelList and the start of the Sequoia scout program. Over the next few years, it became far easier to get access to small amounts of capital to invest in startups, which enabled hundreds of people to start angel investing earlier in their careers, often when they didn’t have much personal capital to invest.
 
