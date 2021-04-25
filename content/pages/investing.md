@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Tyler is... investing!
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
