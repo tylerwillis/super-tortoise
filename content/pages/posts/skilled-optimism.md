@@ -1,5 +1,5 @@
 ---
-title: Skilled Optimism
+title: Skill and Tool Optimism
 excerpt: >-
   You can, and should, do great things. You can be happy while trying to do
   them.
