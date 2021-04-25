@@ -72,11 +72,17 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 ## What is skill-and-tool optimism?
 
-Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. It allows for activity on the personal level, which encourages intrinsic motivation, without losing connection to larger goals.
+Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step now becomes more like a unit test, it's information that helps you build better skills or tools.
 
-In their book Zero-to-One, Peter Thiel and Blake Masters [argue](https://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes) that the world needs "Definite Optimism," where people set ambitious specific goals for how to improve the world (and then work to make them true), as opposed to "Indefinite Optimism," where people iterate in interesting spaces to discover improvements. 
+It allows you to desire to accomplish things that are outside of your current ability, but focus on personal growth and activity within your control. By focusing within your locus of control, you can see hard work and failure as a required step on the journey - something giving you information you can act on. It encourages intrinsic motivation, without losing connection to ambitious goals.
+
+That combination is powerful. A lot of 
+
+In their book Zero-to-One, Peter Thiel and Blake Masters [argue](https://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes) that the world needs "Definite Optimism," where people set ambitious specific goals for how to improve the world (and then work to make them true), as opposed to "Indefinite Optimism," where people iterate in interesting spaces to discover improvements.
 
 Their argument resonates with me. While you can do great things without a vision of what you want to accomplish, it's much harder to know whether you're making progress. When you have a clear vision you're working towards, encountering failure along the way is important information that you may be missing a skill or tool required to achieve your goal. Without a clear goal, this is much harder. It's easier to interpret failure as a dead end and move on to the next area. You may not improve the skills or tools you can use, you just move on to another part of the idea space and mine there.
+
+Skill-and-tool optimism can work whether you have a clear vision or not, but I would strongly bias you towards having one. If you have a vision, believe that self-improvement is required to accomplish that vision, and (critically) focus on the process of self-improvement as required to achieve the outcome, then you don't have to worry that your vision may be wrong (you can update it) or that you haven't achieved your goal yet (you can keep working on it). You can be content in the present moment while working for something you care about in the future.
 
 Skill-and-tool optimism is a fantastic personal philosophy. You build beliefs that inspire both the actions and emotional state that you want, and the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
 
