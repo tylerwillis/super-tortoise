@@ -55,9 +55,9 @@ sections:
       src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
 
-      This podcast gets wonky about skills and tools, I try to show how people
-      accomplish impressive things despite being in over their heads by learning
-      new skills.
+      This podcast is varied (whatever I find interesting) and gets wonky about
+      skills and tools, I try to show how people accomplish impressive things
+      despite being in over their heads by learning new skills.
 
 
       *Every recording is shared first with a small, trusted audience. In a
