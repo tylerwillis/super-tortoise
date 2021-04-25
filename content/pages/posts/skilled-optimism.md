@@ -110,11 +110,9 @@ You may have some of these already. You may struggle with some more acutely. You
 
 ## How to build the beliefs
 
-You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I learned specific skills from people along the journey, but I wasn't lucky enough to find a good teacher or coach that could show me the right milestones. 
+You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is a little bit like level-design in a video game: where you try to match the level's difficulty to the skill that the player has at that exact time: making it hard enough to be challenging, but not so hard that it's demotivating. Finding the ideal balance on that is hard. Great teachers or coaches can help by using their experience to help us set achievable goals and connect them to a bigger outcome, but great teachers and coaches are rare. I've had a few big goals in my life (still do) and I've gotten lots of help from people along the journey, but I wasn't lucky enough to find a good teacher or coach that could break this down for me. Sometimes I bit off more than I could chew.
 
-I was lucky in another area: I was born with a very obsessive personality. That 
-
-Curiousity and obsession are great hacks. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop.
+I was lucky in another area: I was born with a very obsessive personality. Obsession is a great hack. They reframe the goal from accomplishment to learning, which allows for a much faster and more positive loop.
 
 ## ---
 
