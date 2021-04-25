@@ -44,6 +44,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
