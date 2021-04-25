@@ -23,8 +23,8 @@ sections:
       of things that help me practice and evangelize it.
 
 
-      Currently, I'm building Unsupervised, I invest $2-4m/yr in promising
-      startups, and I try to encourage other people to become more optimistic.
+      Currently, that includes building Unsupervised, investing $2-4m/yr in
+      promising startups, and talking about skill and tool optimism online.
     actions:
       - label: Learn about Unsupervised
         url: /contact
