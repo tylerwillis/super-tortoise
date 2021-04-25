@@ -92,7 +92,7 @@ Skill-and-tool optimism can work whether you have a clear vision or not, but I w
 
 Skill-and-tool optimism is a fantastic personal philosophy. You intentionally build beliefs that inspire both the actions and emotional state that you want. Then, the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible. That loop
 
-Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. You have to find ways to develop and re-enforce the following beliefs:
+Developing a belief in skill-and-tool optimism is a simple practice. If you're reading this, you can do it. Here's what you have to do: find ways to develop and re-enforce the following beliefs:
 
 1.  **Optimism:** a belief that huge positive changes are just hard, not impossible.
 
