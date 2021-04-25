@@ -27,7 +27,7 @@ sections:
 
       *
     actions:
-      - label: lorem-ipsum
+      - label: 'Join the '
         url: '#'
         style: link
         icon_class: dev
