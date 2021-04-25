@@ -60,7 +60,9 @@ People that believe they can change things often start out dissatisfied by somet
 
 I know how true that can be because I am one of those unhappy doers. Over the past 5-6 years, I've found some tools that help me be satisfied without losing my ambition to improve things, but I was a pretty helpless case for a long time. I even avoided going to therapy for several years because I was afraid that being happy would make me less ambitious, which felt like a very core part of my identity. When successful people gave advice about being less frustrated at work, adopting a more balanced working style, "trusting it would all work out," or anything similar, I dismissed it with a deep suspicion that their ambition may have made them unhappy at the moment, but it also made them successful. Advising that other people gamble on losing their drive seemed convenient and ill-advised.
 
-If all of that was true — if you have to be unhappy to make things better — then I respect that many people would rationally choose not to do it. That would be the healthy choice. But, I don't believe that anymore. I hope you don't hear this with the same suspicion I had, this is not generic advice to "relax" or "trust the process," these are things you can do to be happier and more ambitious at the same time.
+If all of that was true — if you have to be unhappy to make things better — then I respect that many people would rationally choose not to do it. That would be the healthy choice. 
+
+But, I don't believe that anymore. I hope you don't hear this with the same suspicion I had, this is not generic advice to "relax" or "trust the process," these are things you can do to be happier and more ambitious at the same time.
 
 If you take nothing else from this essay, here’s what I hope you’ll hear:
 
@@ -114,7 +116,7 @@ You can build this muscle from almost any starting point, it just requires break
 
 I was "lucky" in another area: I was born with a very obsessive personality. While my obsessive nature probably caused a lot of the challenges that led me here, when I become obsessed with my interior life I got motivation and re-enforcement from learning about myself instead of achieving something that would be visible to others. That helped me do a lot of work without the fear of looking stupid (while I felt like a failure often in the early days, there was no external pass or fail on how I reflected on my thoughts).
 
-Even with that advantage, it took me about 20 years from the first time I experienced deep unhappiness to when I really started trying to solve this problem. In the 5 or 6 years since then, I've become more skilled, but I'm nowhere near done with the work. I doubt I'll ever feel done - I haven't hit diminishing returns on doing this work yet and I suspect there's relatively infinite compounding available in the lessons I can learn on this in the decades to come. 
+Even with that advantage, it took me about 20 years from the first time I experienced deep unhappiness to when I really started trying to solve this problem. In the 5 or 6 years since then, I've become more skilled, but I'm nowhere near done with the work. I doubt I'll ever feel done - I haven't hit diminishing returns on doing this work yet and I suspect there's relatively infinite compounding available in the lessons I can learn on this in the decades to come.
 
 #### Where to start
 
