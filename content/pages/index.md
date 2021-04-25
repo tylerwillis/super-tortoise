@@ -44,15 +44,15 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: lorem-ipsum
+  - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       ## Lorem ipsum
 
 
-      <iframe width="100%" height="180" frameborder="no" scrolling="no"
-      seamless src="https://share.transistor.fm/e/f011df6d">\</iframe>
+      <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless
+      src="https://share.transistor.fm/e/f011df6d">\</iframe>
 
 
       *   Lorem ipsum
