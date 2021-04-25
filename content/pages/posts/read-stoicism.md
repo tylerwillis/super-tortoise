@@ -4,7 +4,9 @@ subtitle: Originally Published in Big Think in May of 2014
 date: '2014-05-21'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Here’s the best advice I could give on becoming more resilient, happier, and
+  more successful: Read Stoicism.
 seo:
   title: ''
   description: ''
