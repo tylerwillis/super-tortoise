@@ -58,9 +58,13 @@ When framed that way, I don't know a lot of people that don't want optimists to 
 
 I am one of those unhappy doers, but over the past 5-6 years, I've found some tools that help me be satisfied without losing my ambition to improve things. I was a pretty helpless case for a long time, I even avoided going to therapy because I was afraid that being happy would make me less ambitious, which felt like a very core part of my identity. When successful people advocated for therapy, a more balanced working style, or anything similar, I suspected that their ambition made them successful, and giving up some of that was easy to say after you'd achieved success and could afford it.
 
-I'm 
+If all of that is true — if you have to be unhappy to have an impact — then I respect that many people would rationally choose not to do it. But, I don't believe that anymore. If you take nothing else from this essay, here’s what I hope you’ll hear: 
 
-If you take nothing else from this essay, here’s what I hope you’ll hear: **You can be happy doing great things, even if you’re struggling with one or both of those today. Desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want. You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
+1.  **You can be happy doing great things, even if you’re struggling with being happy or doing great things today. **
+
+2.  **You should try to do great things: desire is good, and it doesn't need to be a contract with yourself to be unhappy until you get what you want. **
+
+3.  **You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
 
 ## What is skilled optimism?
 
