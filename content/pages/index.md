@@ -36,7 +36,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Read about Skill Optimism
+      - label: Read about Skill-and-tool Optimism
         url: '#'
         style: link
         icon_class: dev
