@@ -1,7 +1,7 @@
 ---
 title: How to be an Angel Investor
 subtitle: Originally posted on Venture Hacks in 2014
-date: '2021-04-25'
+date: '2014-09-25'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
