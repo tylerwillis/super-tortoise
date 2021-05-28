@@ -15,8 +15,8 @@ sections:
       I'm most well-known for co-founding [Unsupervised](www.unsupervised.com),
       which helps companies discover opportunities in their data (over $60M has
       been found using Unsupervised so far). We have raised over $50M from top
-      investors and have worked with 30% of the Fortune 10 companies and a
-      number of other companies.
+      investors and have worked with 30% of the Fortune 10 and a number of other
+      companies.
 
 
       I think of myself as someone who believes very strongly in the ability to
