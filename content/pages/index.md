@@ -13,8 +13,8 @@ sections:
     title: 'About Me:'
     content: >
       I'm most well-known as the co-founder of Unsupervised, which helps
-      companies discover opportunities in their data (over $60M so far) and has
-      raised over $50M from top investors.
+      companies discover opportunities in their data (over $60M has been found
+      using Unsupervised so far) and has raised over $50M from top investors.
 
 
       I think of myself as someone who believes very strongly in the ability to
