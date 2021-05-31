@@ -67,7 +67,7 @@ sections:
         default_value: your.email@address.com
         options:
           - No spam
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     type: section_form
