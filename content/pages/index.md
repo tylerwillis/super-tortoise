@@ -65,8 +65,7 @@ sections:
         name: email
         label: email
         default_value: your.email@address.com
-        options:
-          - No spam
+        options: []
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
