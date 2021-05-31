@@ -87,40 +87,18 @@ Review those 5 beliefs that I think make up the core of S\&T Optimism. Read thes
 
 5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
 
-\*\*PROMPT #1: \*\*Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that? How did your parents encourage or discourage these beliefs when you were young? (*Yes, I know this seems like a therapy trope, but there's a reason therapists ask about your childhood. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time*).
+**PROMPT #1:** Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that? How did your parents encourage or discourage these beliefs when you were young? (*Yes, I know this seems like a therapy trope, but there's a reason therapists ask about your childhood. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time*).
 
 Preferably, take a break at this point. Just reflect on those thoughts for a little while.
 
-\*\*PROMPT #2: \*\*When you come back to this, try to put aside those reactions and think about a future you that believes these five things. How do you think you'd be different? Would being that person feel better? Does the idea of changing in these ways elicit any fear? Would you risk losing any part of yourself that you really love?
+**PROMPT #2:** When you come back to this, try to put aside those reactions and think about a future you that believes these five things. How do you think you'd be different? Would being that person feel better? Does the idea of changing in these ways elicit any fear? Would you risk losing any part of yourself that you really love?
 
 Take a break after this as well.
 
-\*\*PROMPT #3: \*\*Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Timebox this to only 30-60 minutes, but follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to clear your mind), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (does that highlight a skill or tool you could develop?).
+**PROMPT #3:** Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Timebox this to only 30-60 minutes, but follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to clear your mind), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (does that highlight a skill or tool you could develop?).
 
 Split these reflections up, don't do them at the same time. I'd recommend giving yourself an hour to journal on each prompt. You can do these as regularly or irregularly as you want to. If you're just starting out, I'd recommend doing each prompt, in order, once a week, for 3 weeks. That should be enough time to understand if this is giving you a helpful way to understand and frame your experiences.
 
 #### How to continue - focus on skills and tools.
 
 The third prompt above is the core of the practice. You want to reflect on what you're experiencing and look for ways you're changing or could change. Like most practices that help you build self-awareness, this becomes a way to habitually separate action and reflection on action. You can do this in lots of ways, including by meditating, journaling, sitting quietly and thinking, or talking with a friend/coach/therapist/mentor regularly. The main goal is to give yourself explicit time to observe the things going on in your life as a witness, not a participant.
-
-
-
-## Split th---
-
-I hope that by writing this I can help you achieve some of the same understanding more quickly.
-
-This is like meditation for anxious people.
-
-"Comparison is the thief of joy" - every person you admire failed thousands of times.  Being focused on your own work & the knowledge that failure is part of self-improvement and doesn't invalidate you.
-
-Get more or desire less.
-
-Optimism and naivety do not need to go hand-in-hand. If you believe that society can intentionally get better, you naturally should believe that you and other people can get better too. You can focus on an immediate practice: improve your skills and tools, use those to improve the world around you, and give those skills and tools freely to others.
-
-Without any magical thinking, you can immediately create a positive feedback where you inspire others through positive change and get inspired in return to keep going. As a personal philosophy, skill-and-tool optimism is a practical way to be happier, more effective, and more pro-social.
-
-Just having a vision for how the world can be better isn't enough, you need to also have the belief that you can get better too. You might be lucky enough to have that belief innately, but most people have to develop it intentionally.
-
-(and many who would prefer that people they know well not step into the role either)
-
-### ---
