@@ -47,7 +47,7 @@ sections:
         type: action
   - section_id: lorem-ipsum
     form_id: email subscription
-    form_action: lorem-ipsum
+    form_action: Subscribe
     form_fields:
       - input_type: email
         name: email
