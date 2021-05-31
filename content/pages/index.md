@@ -45,6 +45,18 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - section_id: email subscription
+    form_id: email subscription
+    form_action: Subscribe
+    form_fields:
+      - input_type: email
+        name: email
+        default_value: Email Address
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Subscribe
+    type: section_form
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -66,18 +78,6 @@ sections:
       both they and the guest agree, we publish the episode publicly.*
     actions: []
     type: section_content
-  - section_id: email subscription
-    form_id: email subscription
-    form_action: Subscribe
-    form_fields:
-      - input_type: email
-        name: email
-        default_value: Email Address
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Subscribe
-    type: section_form
   - section_id: featured-posts
     type: section_posts
     title: Recent Posts
