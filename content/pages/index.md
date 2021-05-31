@@ -75,7 +75,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: 'Tyler Willis: tech founder (Unsupervised) and seed investor'
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
