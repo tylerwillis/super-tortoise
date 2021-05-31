@@ -41,7 +41,7 @@ Their argument resonates with me. While you can do great things without a vision
 
 Skill-and-tool optimism can work whether you have a clear vision or not, but I would strongly bias you towards having one. If you have a big goal, believe that self-improvement is required to accomplish that, and (critically) focus mostly on the process of self-improvement that is required to achieve the outcome, then you don't have to worry that your vision may be slightly wrong (you can update it with new information) or that you haven't achieved your goal yet (you can figure out what skills and tools would let you keep working towards it). You can be content in the present moment while working for something you care about in the future.
 
-### How S\&T Optimism works
+### How Skill & Tool Optimism works
 
 Skill-and-tool optimism is a fantastic personal philosophy. You intentionally build beliefs that inspire both the actions and emotional state that you want. Then, the way those beliefs interact is self re-enforcing: when you believe that worthwhile change is both hard and possible, you are motivated to develop new skills and tools to try to accomplish it. When you see small breakthroughs because of your hard work, it gives you more faith that change is possible.
 
