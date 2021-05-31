@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/Blue and White Scrapbook Mindfulness Keynote Presentation.gif
 ---
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as being naive in a way that makes them cute, but also a little stupid or dangerous. If you're optimistic about something, people will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit.
 
