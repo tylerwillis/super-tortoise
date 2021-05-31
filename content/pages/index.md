@@ -66,14 +66,6 @@ sections:
       both they and the guest agree, we publish the episode publicly.*
     actions: []
     type: section_content
-  - section_id: featured-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
   - section_id: email subscription
     form_id: email subscription
     form_action: Subscribe
@@ -86,6 +78,14 @@ sections:
         type: form_field
     submit_label: Subscribe
     type: section_form
+  - section_id: featured-posts
+    type: section_posts
+    title: Recent Posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
+        style: button
 seo:
   title: Tyler Willis — Startup Founder and Seed Investor.
   description: >-
