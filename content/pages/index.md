@@ -45,7 +45,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: lorem-ipsum
+  - section_id: email subscription
     form_id: email subscription
     form_action: Subscribe
     form_fields:
