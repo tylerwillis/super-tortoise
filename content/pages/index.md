@@ -8,18 +8,6 @@ sections:
     content: >
       I'm co-founded Unsupervised, which helps companies find new opportunities
       using their complex data.
-  - section_id: email subscription
-    form_id: email subscription
-    form_action: Subscribe
-    form_fields:
-      - input_type: email
-        name: email
-        default_value: Email Address
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Subscribe
-    type: section_form
   - section_id: about
     type: section_content
     title: 'About Me:'
@@ -86,6 +74,18 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
+  - section_id: email subscription
+    form_id: email subscription
+    form_action: Subscribe
+    form_fields:
+      - input_type: email
+        name: email
+        default_value: Email Address
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Subscribe
+    type: section_form
 seo:
   title: Tyler Willis — Startup Founder and Seed Investor.
   description: >-
