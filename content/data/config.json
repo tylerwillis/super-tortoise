@@ -23,7 +23,7 @@
             },
             {
                 "label": "Investing",
-                "url": "#",
+                "url": "/investing",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
