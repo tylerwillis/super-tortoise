@@ -57,6 +57,7 @@ sections:
         type: form_field
     submit_label: Subscribe
     type: section_form
+    title: Subscribe for new posts
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
