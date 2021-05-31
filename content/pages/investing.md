@@ -1,7 +1,7 @@
 ---
 title: Investing
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: Investing $2-4M/yr in startups
 sections:
   - title: 'Tyler is: investing in startups'
     section_id: lorem-ipsum
