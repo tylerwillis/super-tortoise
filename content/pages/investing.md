@@ -23,7 +23,8 @@ sections:
 
 
       [Accredited investors can back the early-stage fund
-      here](angel.co/v/l/STiEs). 
+      here](angel.co/v/l/STiEs).
+
 
       We also lead occasional growth-stage deals via a syndicate.
     actions:
