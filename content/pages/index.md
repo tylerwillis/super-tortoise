@@ -14,7 +14,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        default_value: your.email@address.com
+        default_value: Get new posts/episodes via email
         options: []
         is_required: true
         type: form_field
