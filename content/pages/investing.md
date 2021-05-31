@@ -1,6 +1,6 @@
 ---
 title: Investing
-hide_title: false
+hide_title: true
 excerpt: lorem-ipsum
 sections:
   - title: 'Tyler is: investing in startups'
