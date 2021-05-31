@@ -41,7 +41,7 @@
                 "style": "button"
             },
             {
-                "url": "mailto:tylerwillis@unsupervised.com",
+                "url": "\"mailto:tylerwillis@unsupervised.com\"",
                 "style": "link",
                 "icon_class": "facebook",
                 "new_window": false,
