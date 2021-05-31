@@ -63,7 +63,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        label: email
+        label: Get Email Updates
         default_value: your.email@address.com
         options: []
         is_required: true
