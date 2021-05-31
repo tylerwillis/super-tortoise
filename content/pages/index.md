@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tyler Willis.'
+    title: 'Hi, I''m Tyler.'
     content: >
       I'm the Co-founder of Unsupervised, which helps people analyze complex
       data and find opportunities.
