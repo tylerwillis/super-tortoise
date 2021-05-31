@@ -8,19 +8,6 @@ sections:
     content: >
       I'm co-founded Unsupervised, which helps companies find new opportunities
       using their complex data.
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    
-          
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: lorem-ipsum
-    type: section_form
   - section_id: email subscription
     form_id: email subscription
     form_action: Subscribe
