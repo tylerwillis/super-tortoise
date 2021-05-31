@@ -76,7 +76,7 @@ sections:
         style: button
 seo:
   title: 'Tyler Willis: tech founder (Unsupervised) and seed investor'
-  description: The preview of the Fresh theme
+  description: Tyler is the co-founder of Unsupervised
   extra:
     - name: 'og:type'
       value: website
