@@ -23,8 +23,7 @@ sections:
 
 
       [Accredited investors can back the early-stage fund
-      here](angel.co/v/l/STiEs). We also occasionally [invest in growth-stage
-      companies](https://angel.co/s/tylerwillis/9pe5Q).
+      here](angel.co/v/l/STiEs).
     actions:
       - label: Back the Fund
         url: 'https://angel.co/v/l/STiEs'
