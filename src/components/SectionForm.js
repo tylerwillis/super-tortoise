@@ -16,8 +16,6 @@ export default class SectionForm extends React.Component {
                 {_.get(section, 'content', null) && (
                 markdownify(_.get(section, 'content', null))
                 )}
-                
-
                 <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} {...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                   <div className="screen-reader-text">
                     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
