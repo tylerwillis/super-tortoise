@@ -23,7 +23,7 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 3.  **You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
 
-### What is skill-and-tool optimism?
+## What is skill-and-tool optimism?
 
 Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step becomes more like a QA test, failure is information you can use to build better skills or tools. Once you build them, you can try to pass the test again.
 
@@ -63,7 +63,7 @@ You may have some of these already. You may struggle with some more acutely. You
 
 ### How to build the beliefs
 
-You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is a little bit like level-design in a video game: where you try to match the level's difficulty to the skill that the player has at that exact time: making it hard enough to be challenging, but not so hard that it's demotivating. 
+You can build this muscle from almost any starting point, it just requires breaking a big goal into small-enough goals that your feedback loop is quick and positive enough to continue motivating you. This is a little bit like level-design in a video game: where you try to match the level's difficulty to the skill that the player has at that exact time: making it hard enough to be challenging, but not so hard that it's demotivating.
 
 Finding the ideal balance on that is hard. It's possible to get a little lucky when starting out, either by \[1] having a great coach/teacher/mentor or \[2] having a natural ability to push through demotivating experiences. If you didn't get lucky in either way, it can be helpful to know that so that you have your expectations set properly and don't get demotivated early on. You don't need these.
 
@@ -87,15 +87,15 @@ Review those 5 beliefs that I think make up the core of S\&T Optimism. Read thes
 
 5.  **Desire:** a belief that accomplishing something, even if it's hard, is satisfying and worthwhile.
 
-**PROMPT #1: **Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that? How did your parents encourage or discourage these beliefs when you were young? (*Yes, I know this seems like a therapy trope, but there's a reason therapists ask about your childhood. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time*).
+\*\*PROMPT #1: \*\*Grab a journal and write out your thoughts. What emotional reaction do you have to each? In what situations recently have you acted like you believed that or not acted like you believed that? How did your parents encourage or discourage these beliefs when you were young? (*Yes, I know this seems like a therapy trope, but there's a reason therapists ask about your childhood. Our beliefs are guided by our experiences, and we react to experiences in ways that are comfortable to us — experiences and beliefs reinforce each other and if a pattern gets set early, it creates a 'groove' that's easy for our thoughts to slip into and make into a strong habitual pattern over time*).
 
 Preferably, take a break at this point. Just reflect on those thoughts for a little while.
 
-**PROMPT #2: **When you come back to this, try to put aside those reactions and think about a future you that believes these five things. How do you think you'd be different? Would being that person feel better? Does the idea of changing in these ways elicit any fear? Would you risk losing any part of yourself that you really love?
+\*\*PROMPT #2: \*\*When you come back to this, try to put aside those reactions and think about a future you that believes these five things. How do you think you'd be different? Would being that person feel better? Does the idea of changing in these ways elicit any fear? Would you risk losing any part of yourself that you really love?
 
 Take a break after this as well.
 
-**PROMPT #3: **Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to change your mindspace), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (is that a skill or tool you could develop?).
+\*\*PROMPT #3: \*\*Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to change your mindspace), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (is that a skill or tool you could develop?).
 
 Split these reflections up, don't do them at the same time. I'd recommend giving yourself an hour to journal on each prompt. You can do these as regularly or irregularly as you want to. If you're just starting out, I'd recommend doing each prompt, in order, once a week, for 3 weeks. That should be enough time to understand if this is giving you a helpful way to understand and frame your experiences.
 
