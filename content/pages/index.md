@@ -8,6 +8,19 @@ sections:
     content: >
       I'm co-founded Unsupervised, which helps companies find new opportunities
       using their complex data.
+  - section_id: email subscription
+    form_id: email subscription
+    form_action: Subscribe
+    form_fields:
+      - input_type: email
+        name: email
+        label: Get new posts/episodes via email
+        default_value: your.email@address.com
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Subscribe
+    type: section_form
   - section_id: about
     type: section_content
     title: 'About Me:'
@@ -45,19 +58,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: email subscription
-    form_id: email subscription
-    form_action: Subscribe
-    form_fields:
-      - input_type: email
-        name: email
-        label: Get new posts/episodes via email
-        default_value: your.email@address.com
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Subscribe
-    type: section_form
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
