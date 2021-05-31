@@ -24,7 +24,7 @@
             {
                 "label": "Investing",
                 "url": "/investing",
-                "style": "icon",
+                "style": "link",
                 "icon_class": "github",
                 "new_window": false,
                 "no_follow": false,
