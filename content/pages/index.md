@@ -29,7 +29,7 @@ sections:
       blog and my podcast.
     actions:
       - label: Learn about Unsupervised
-        url: 'http://www.unsupervised.com'
+        url: 'https://www.unsupervised.com'
         style: button
       - label: Invest alongside me
         url: '#'
