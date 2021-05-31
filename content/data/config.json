@@ -42,7 +42,7 @@
             },
             {
                 "url": "#",
-                "style": "link",
+                "style": "button",
                 "icon_class": "facebook",
                 "new_window": false,
                 "no_follow": false,
