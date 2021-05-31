@@ -46,7 +46,7 @@ sections:
         no_follow: false
         type: action
   - section_id: lorem-ipsum
-    form_id: lorem-ipsum
+    form_id: email subscription
     form_action: lorem-ipsum
     form_fields:
       - input_type: email
