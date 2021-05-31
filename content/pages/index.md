@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Tyler.'
     content: >
       I'm co-founded Unsupervised, which helps companies find new opportunities
-      in their complex data.
+      using their complex data.
   - section_id: about
     type: section_content
     title: 'About Me:'
