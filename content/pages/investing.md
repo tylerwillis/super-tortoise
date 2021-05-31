@@ -41,12 +41,6 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: Investments
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: "##### Notable Investments\n\nHere are some of my best-known investments -- all of these were early-stage direct investments out of the fund or syndicate.\n\n*   **Patreon**\_– Sustainable funding platform for artists\n\n*   **Lattice** – People management software to develop high-performing teams.\n\n*   **Lambda School** – Rigorous training of new engineers for no upfront cost\n\n*   **Mainstreet** – Money for startups via tax credits\n\n*   **On Deck** – The next Harvard MBA\n\n##### Exited Companies:\n\n*   **Avametric** – Incredible 3D rendering and simulation technology.\_[Acquired by Gerber Technologies](https://www.gerbertechnology.com/news/gerber-technology-acquires-avametric/). Backed by Khosla.\n\n*   **BranchOut** – Career Network on Facebook.\_[Acquired by Hearst](https://www.politico.com/media/story/2014/09/hearst-heads-to-silicon-valley-to-launch-development-group-002872). Backed by Redpoint, Accel, Norwest, and Floodgate.\n\n*   **L.** – Health products that empower women.\_[Acquired by P\\&G](https://news.pg.com/press-release/pg-corporate-announcements/pg-acquires-l-one-fastest-growing-feminine-care-brands-us).\n\n*   **Loungebuddy**\_– Airport lounge booking and reviews.\_[Acquired by AMEX](https://thepointsguy.com/news/amex-to-acquire-loungebuddy/). Backed by Founders Fund.\n\n*   **Lyft** – Better transportation in cities.\_[$24b IPO in 2019](https://www.reuters.com/article/us-lyft-ipo/lyft-valued-at-24-3-billion-in-first-ride-hailing-ipo-idUSKCN1R92P4). Backed by A16z, Founders Fund, Fidelity, GM, and others.\n\n*   **Vidtel** – Cloud-based Video Conferencing.\_[Acquired by Fidelity](http://cp.wainhouse.com/blog/2013/10/16/stealth-acquisition-vidtel). Investors were not announced.\n\n*   **Genome Compiler** – Genetic Engineering made easy. Acquired by Twist Bioscience. Backed by NFX and Techammer\n"
-    actions: []
-    type: section_content
 seo:
   title: ''
   description: ''
