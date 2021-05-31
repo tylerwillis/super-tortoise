@@ -39,7 +39,7 @@ sections:
         no_follow: false
         type: action
       - label: What's Skill and Tool Optimism?
-        url: '#'
+        url: 'http://tyler.is/posts/skill-and-tool-optimism/'
         style: link
         icon_class: dev
         new_window: false
