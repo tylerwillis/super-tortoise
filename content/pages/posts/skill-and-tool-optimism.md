@@ -1,6 +1,6 @@
 ---
 title: Skill and Tool Optimism
-subtitle: lorem-ipsum
+subtitle: You can be both happy and driven.
 date: '2021-05-31'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
