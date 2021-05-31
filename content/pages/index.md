@@ -56,7 +56,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Subscribe
     type: section_form
   - title: Podcast
     section_id: lorem-ipsum
