@@ -88,7 +88,9 @@ seo:
       value: Tyler Willis
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Tyler Willis is the co-founder of Unsupervised and an active seed
+        investor.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
