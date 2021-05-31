@@ -23,7 +23,7 @@ If you take nothing else from this essay, here’s what I hope you’ll hear:
 
 3.  **You can be happy in the belief that improvement is possible, well before you make any actual improvement.**
 
-## What is skill-and-tool optimism?
+### What is skill-and-tool optimism?
 
 Skill-and-tool optimism is the belief that people can acquire skills, build tools, and use those to make the world a better place. If you have a strong belief in that, then you can go after ambitious goals that are outside of your current ability, and use that as motivation to develop the skills and tools that bring it within your ability. Failure at any step becomes more like a QA test, failure is information you can use to build better skills or tools. Once you build them, you can try to pass the test again.
 
@@ -99,7 +99,9 @@ Take a break after this as well.
 
 Split these reflections up, don't do them at the same time. I'd recommend giving yourself an hour to journal on each prompt. You can do these as regularly or irregularly as you want to. If you're just starting out, I'd recommend doing each prompt, in order, once a week, for 3 weeks. That should be enough time to understand if this is giving you a helpful way to understand and frame your experiences.
 
-##### How to Continue
+#### How to continue - focus on skills and tools.
+
+Like most practices that help you build self-awareness, you should build a habitual loop of action and reflection on action. You can do this by meditating, journaling, or talking with a friend/coach/therapist/mentor regularly. There are probably a lot of other ways to do this as well. The main thing is to look back
 
 ## Split th---
 
