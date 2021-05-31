@@ -14,9 +14,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        default_value: >-
-          Add your email address and subscribe to get new posts/episodes via
-          email
+        default_value: Add your email here to get
         options: []
         is_required: true
         type: form_field
