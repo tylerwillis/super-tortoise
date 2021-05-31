@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Investing
 hide_title: false
 excerpt: lorem-ipsum
 sections:
