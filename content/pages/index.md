@@ -76,7 +76,10 @@ sections:
         style: button
 seo:
   title: Tyler Willis — Startup Founder and Seed Investor.
-  description: Tyler is the co-founder of Unsupervised
+  description: >-
+    Tyler is the co-founder of Unsupervised, which helps companies find new
+    opportunities using complex data. He also invests $2-4M/yr in promising
+    startups.
   extra:
     - name: 'og:type'
       value: website
