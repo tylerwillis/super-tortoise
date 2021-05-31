@@ -37,7 +37,7 @@ layout: page
 
 In addition to his work at Unsupervised, Tyler is an active angel investor — managing a $2-4M/yr fund that invests in early-stage technology companies. He's been an early-stage investor in companies like Patreon (now worth $4B), Clubhouse ($4B), Lattice ($1B), Lambda School, MainStreet, and On Deck.
 
-Prior to founding Unsupervised, Tyler served as the CMO of Hired.com, a career marketplace that has raised over $100 Million to help talented people find jobs they love, and previously ran sales, growth marketing, partnerships, and M\&A across several top-performing startups. Insatiably curious, he's always looking for the next thing to learn.
+Prior to founding Unsupervised, Tyler served as the CMO of Hired.com, a career marketplace that raised over $100 Million to help talented people find jobs they love, and previously ran sales, growth marketing, partnerships, and M\&A across several top-performing startups. Insatiably curious, he's always looking for the next thing to learn.
 
 *Editor's note: The New Yorker once insinuated (very kindly!) that I was unfocused when they wrote: "People like Willis, young and urban and professionally diffuse, tend to regard success in terms of autonomy—designing your life as you want—rather than Napoleonic domination." This, of course, delighted my family members (and led to endless teasing).*
 
