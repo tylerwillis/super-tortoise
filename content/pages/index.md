@@ -101,7 +101,9 @@ seo:
     - name: 'twitter:title'
       value: Tyler Willis
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Tyler Willis is the co-founder of Unsupervised and an active seed
+        investor.
     - name: 'twitter:image'
       value: /_static/app-assets/Tyler%20Product%20Shot.jpg
       relativeUrl: true
