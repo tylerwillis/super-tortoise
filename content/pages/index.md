@@ -46,8 +46,6 @@ sections:
         no_follow: false
         type: action
   - section_id: lorem-ipsum
-    content: |
-      *
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
