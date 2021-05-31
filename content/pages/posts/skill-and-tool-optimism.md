@@ -95,13 +95,15 @@ Preferably, take a break at this point. Just reflect on those thoughts for a lit
 
 Take a break after this as well.
 
-\*\*PROMPT #3: \*\*Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to change your mindspace), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (is that a skill or tool you could develop?).
+\*\*PROMPT #3: \*\*Describe a situation you had this week - whatever comes to mind as most important. What did you feel, experience, get frustrated by, worry about... whatever. Just free-write (you can also just voice this out loud using a transcription tool like [Otter](www.otter.ai)). Timebox this to only 30-60 minutes, but follow whatever threads seem like important context or seem interesting. After you're done - wait at least 15 minutes (I recommend taking a shower or going for a walk to clear your mind), come back and read what you wrote. While reading, do two things: \[1] look for places where you or others exhibited one of the 5 key beliefs or failed to exhibit them and \[2] look for when you wish you'd had a different way to do something (does that highlight a skill or tool you could develop?).
 
 Split these reflections up, don't do them at the same time. I'd recommend giving yourself an hour to journal on each prompt. You can do these as regularly or irregularly as you want to. If you're just starting out, I'd recommend doing each prompt, in order, once a week, for 3 weeks. That should be enough time to understand if this is giving you a helpful way to understand and frame your experiences.
 
 #### How to continue - focus on skills and tools.
 
-Like most practices that help you build self-awareness, you should build a habitual loop of action and reflection on action. You can do this by meditating, journaling, or talking with a friend/coach/therapist/mentor regularly. There are probably a lot of other ways to do this as well. The main thing is to look back
+The third prompt above is the core of the practice. You want to reflect on what you're experiencing and look for ways you're changing or could change. Like most practices that help you build self-awareness, this becomes a way to habitually separate action and reflection on action. You can do this in lots of ways, including by meditating, journaling, sitting quietly and thinking, or talking with a friend/coach/therapist/mentor regularly. The main goal is to give yourself explicit time to observe the things going on in your life as a witness, not a participant.
+
+
 
 ## Split th---
 
