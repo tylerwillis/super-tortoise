@@ -57,7 +57,7 @@ sections:
         type: form_field
     submit_label: Subscribe
     type: section_form
-    title: Subscribe to get posts and podcast episodes via email
+    title: Get posts and podcast episodes via email
   - title: Podcast
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
