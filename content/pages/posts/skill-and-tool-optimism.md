@@ -4,7 +4,7 @@ subtitle: A personal philosophy to be both happy and driven.
 date: '2021-05-31'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: A good personal philosophy to be both happy and driven.
+excerpt: A good personal philosophy to help you be both happy and driven.
 seo:
   title: ''
   description: ''
