@@ -41,7 +41,7 @@
                 "style": "button"
             },
             {
-                "url": "<a href=\"tw@tyler.is\">",
+                "url": "<a href=\"tw@tyler.is\"></a>",
                 "style": "link",
                 "icon_class": "facebook",
                 "new_window": false,
