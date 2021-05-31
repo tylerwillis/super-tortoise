@@ -14,7 +14,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        default_value: yourSubscribe to newsletter
+        default_value: Email Address
         options: []
         is_required: true
         type: form_field
