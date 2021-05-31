@@ -14,8 +14,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-You can be both happy and driven.
-
 Calling someone an optimist is often a back-handed compliment. Optimists are seen as being naive in a way that makes them cute, but also a little stupid or dangerous. If you're optimistic about something, people will tell you to "wake up" or "be pragmatic," which is an implicit command to consider what's possible and shrink your dreams to fit.
 
 That's terrible advice. You should be an optimist. You should believe things can be better. You should work to make them better. You can be happy and effective while you do it. And you can help other people be happier too.
