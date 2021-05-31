@@ -93,7 +93,7 @@ seo:
         investor.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/Tyler%20Headshot.png
+      value: /_static/app-assets/Tyler%20Product%20Shot.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
