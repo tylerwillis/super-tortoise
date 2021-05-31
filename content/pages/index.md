@@ -75,7 +75,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: 'Tyler Willis: tech founder (Unsupervised) and seed investor'
+  title: Tyler Willis — Startup Founder and Seed Investor.
   description: Tyler is the co-founder of Unsupervised
   extra:
     - name: 'og:type'
