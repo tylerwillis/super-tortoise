@@ -11,10 +11,10 @@ sections:
       accredited investors.
 
 
-      When I started investing, I was one of the few people that raised a small
-      VC fund while continuing to operate. I believed I could do both things
-      well at the same time, and that being an active operator gave me more
-      ability to find interesting companies and provide relevant help to them.
+      When I started investing, I was one of the first people to raise a small
+      VC fund without going full-time. I believed I could do both things well at
+      the same time and that being an active operator gave me more ability to
+      find interesting companies and provide relevant help to them.
 
 
       Since then, I've been one of the earliest investors in companies that are
