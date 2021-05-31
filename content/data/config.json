@@ -36,11 +36,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "button"
-            },
-            {
                 "url": "#",
                 "style": "button",
                 "icon_class": "facebook",
