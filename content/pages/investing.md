@@ -24,7 +24,9 @@ sections:
 
       [Accredited investors can back the early-stage fund
       here](angel.co/v/l/STiEs). We also lead occasional growth-stage deals via
-      a syndicate.
+      a syndicate. The fund is my primary investment vehicle, accredited
+      investors can back both the fund and the syndicate to get access to all my
+      deals.
     actions:
       - label: Back the Fund
         url: 'https://angel.co/v/l/STiEs'
