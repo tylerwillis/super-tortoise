@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tyler.'
     content: >
-      I'm co-founded Unsupervised, which helps companies find new opportunities
-      using their complex data.
+      I'm the co-founder of [Unsupervised](https://www.unsupervised.com), which
+      helps companies find new opportunities using their complex data.
   - section_id: about
     type: section_content
     title: 'About Me:'
