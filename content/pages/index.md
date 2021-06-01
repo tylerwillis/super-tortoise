@@ -12,10 +12,10 @@ sections:
     type: section_content
     title: 'About Me:'
     content: >
-      I'm most well-known for co-founding [Unsupervised](www.unsupervised.com),
-      which helps companies discover opportunities in their data (over $60M
-      found so far). We have raised over $50M from top VCs and have worked with
-      30% of Fortune 10 companies.
+      I'm most well-known as the co-founder of
+      [Unsupervised](www.unsupervised.com), which helps companies discover
+      opportunities in their data (over $60M found so far). We have raised over
+      $50M from top VCs and have worked with 30% of Fortune 10 companies.
 
 
       I think of myself as someone who believes very strongly in the ability to
