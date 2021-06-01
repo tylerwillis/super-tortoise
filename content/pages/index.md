@@ -32,7 +32,7 @@ sections:
         url: 'https://www.unsupervised.com'
         style: button
       - label: Invest alongside me
-        url: angel.co/v/l/STiEs
+        url: /investing
         style: link
         icon_class: dev
         new_window: false
