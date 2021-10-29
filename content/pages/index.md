@@ -14,7 +14,7 @@ sections:
     content: >
       I'm most well-known as the co-founder and COO of
       [Unsupervised](www.unsupervised.com), which helps companies discover
-      opportunities in their data (over $60M found so far in 2021). We have
+      opportunities in their data (over $100M found so far in 2021). We have
       raised over $50M from top VCs and have worked with 30% of Fortune 10
       companies.
 
