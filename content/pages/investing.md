@@ -12,20 +12,21 @@ sections:
 
 
       When I started investing, I was one of the first people to raise a small
-      VC fund without going full-time. I believed I could do both things well at
-      the same time and that being an active operator gave me more ability to
-      find interesting companies and provide relevant help to them.
+      VC fund without going full-time. I thought I could do both things well and
+      that being an active operator gave me more ability to find interesting
+      companies and provide relevant help to them.
 
 
       Since then, I've been one of the earliest investors in companies that are
-      now incredibly successful, including Patreon (now worth $4B), Clubhouse
-      ($4B), Lattice ($1B), MainStreet, On Deck, and several others.
+      now incredibly successful, including Patreon (now a unicorn), Clubhouse
+      (unicorn), Lattice (unicorn), MainStreet, On Deck, Lambda School, and
+      several others.
 
 
-      [The early-stage fund is my primary investment
-      vehicle](angel.co/v/l/STiEs). We also lead occasional growth-stage deals
-      via a syndicate. Accredited investors can back both the fund and the
-      syndicate to get access to all my deals.
+      [Kepler Operator's Fund invests in early-stage tech companies and is my
+      primary investment vehicle](angel.co/v/l/STiEs). We also lead occasional
+      growth-stage deals via a syndicate. Accredited investors can back both the
+      fund and the syndicate to get access to all my deals.
     actions:
       - label: Back the Fund
         url: 'https://angel.co/v/l/STiEs'
