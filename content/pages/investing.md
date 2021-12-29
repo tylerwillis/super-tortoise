@@ -24,7 +24,7 @@ sections:
 
 
       [Kepler Operator's Fund invests in early-stage tech companies and is my
-      primary investment vehicle](www.angel.co/v/l/STiEs). We also lead occasional
+      primary investment vehicle](https://angel.co/v/l/STiEs). We also lead occasional
       growth-stage deals via a syndicate. Accredited investors can back both the
       fund and the syndicate to get access to all my deals.
     actions:
