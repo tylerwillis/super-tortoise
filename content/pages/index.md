@@ -10,7 +10,7 @@ sections:
       helps companies find new opportunities using their complex data.
   - section_id: about
     type: section_content
-    title: 'About Me:'
+    title: 'About ME:'
     content: >
       I'm most well-known as the co-founder and COO of
       [Unsupervised](https://unsupervised.com), which helps companies discover
